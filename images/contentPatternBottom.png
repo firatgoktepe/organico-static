@@ -1,0 +1,1625 @@
+<!DOCTYPE html>
+<html lang="tr" class="no-js no-svg">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+                <link rel="shortcut icon" href="https://turetici-bakkali.local/wp-content/themes/organico/assets/images/favicon.ico" />
+            <title>Sayfa bulunamadı &#8211; Turetici-Bakkali</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Turetici-Bakkali &raquo; beslemesi" href="https://turetici-bakkali.local/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Turetici-Bakkali &raquo; yorum beslemesi" href="https://turetici-bakkali.local/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/turetici-bakkali.local\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://turetici-bakkali.local/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://turetici-bakkali.local/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://turetici-bakkali.local/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://turetici-bakkali.local/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://turetici-bakkali.local/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://turetici-bakkali.local/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://turetici-bakkali.local/wp-content/plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='ftc-element-css'  href='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/css/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='organic-element-css'  href='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/css/organico.css' type='text/css' media='all' />
+<link rel='stylesheet' id='organic-element-respon-css'  href='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/css/organico-responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ftc-element-default-css'  href='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/css/style_default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='dokan-style-css'  href='https://turetici-bakkali.local/wp-content/plugins/dokan-lite/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dokan-fontawesome-css'  href='https://turetici-bakkali.local/wp-content/plugins/dokan-lite/assets/vendors/font-awesome/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-styles-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/style-editor.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/simple-line-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gg-roboto-slab-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='gg-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='gg-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='gg-raleway-css'  href='//fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='ftc-style-css'  href='https://turetici-bakkali.local/wp-content/themes/organico-child/style.css' type='text/css' media='all' />
+<style id='ftc-style-inline-css' type='text/css'>
+	
+	
+	/*
+	1. FONT FAMILY
+	2. GENERAL COLORS
+	*/
+	
+	
+	/* ============= 1. FONT FAMILY ============== */
+
+    body{
+        line-height: 24px;
+    }
+	
+        html, 
+	body,.widget-title.heading-title,
+        .widget-title.product_title,.newletter_sub_input .button.button-secondary,
+        #mega_main_menu.primary ul li .mega_dropdown > li.sub-style > .item_link .link_text,
+    .ftc-sb-account .ftc_login > a,
+    .ftc-sb-account,
+    .ftc-my-wishlist *,.item-description .product_title,
+        .woocommerce div.product .product_title, 
+         .item-description .price, .blogs article h3.product_title, .list-posts .post-info .entry-title
+	, .ftc-enable-ajax-search div.meta,
+        .woocommerce .products.list .product .price .amount,
+        .woocommerce-page .products.list .product .price .amount, 
+        .woocommerce .products.list .product h3.product-name > a,h2.widgettitle,
+		.woocommerce.widget_shopping_cart .total,
+		p.woocommerce-mini-cart__buttons.buttons > a.button.wc-forward,
+		.single-post article .post-info .info-category h3.product_title,
+		.ftc-featuring-product-h2.ftc-text-h7 p.after-title, .top_footer8 p.button-sub input[type="submit"],
+		.feature-top10 .ftc-feature .ftc_feature_content h3 a,
+		span.text-header8,.single-portfolio .meta-content .portfolio-info p,
+		.product-deal-h11 .product .item-description .meta_info .add-to-cart a,
+		.product-deal-h11 div.product .countdown-meta, .product-deal-h11 .counter-wrapper > div span.number,
+		.test-home11.ftc-sb-testimonial .testimonial-content .byline, .blog-home11 article a.button-readmore,
+		.group-img-h12 .text1-h12 a, .single-img12_2 .text1-h12 a,
+		.products .product h3,
+    	.woocommerce .products .product h3,
+    	.woocommerce-page .products .product h3,
+    	.ftc-meta-widget h3,.woocommerce div.product .summary.entry-summary span.amount,
+		.single-product .woocommerce ul.product_list_widget li .ftc-meta-widget.item-description h3.product-name,
+		body.blog article .post-info .entry-title, .archive.category article .post-info .entry-title, .blog article .post-info .entry-title, 
+		.author article .post-info .entry-title, .tag article .post-info .entry-title, 
+		.single-post article .post-info .entry-title,.single-post #comments h2.comments-title,.text-left-h14 a,
+		.ftc-footer .footer-middle14 .ftc-title h2, .header-layout15 .cart-total, .text-left-h15 a,
+.footer-middle15  p.button-sub input[type="submit"], .footer-middle16 h3, .footer-middle16 p.button-sub input[type="submit"],
+.header-layout17 .cart-total ,.top-middle-h17 h3, .top-middle-h17 p.button-sub input[type="submit"]	, 
+.mobile-wishlist .tini-wishlist, .newsletter-h18 p.button-sub input[type="submit"], .newsletter-h19 .ftc-text-h12 .ftc-title h2,
+.newsletter-h23 p.button-sub input[type="submit"], .ftc-footer .ftc-title h2, .pp_woocommerce div.product p.price,
+.error_2 p.button-error, .error_4 p.button-error, .mail-coming2 p.button-sub, .mail-coming5 p.button-sub,
+.single-contact2 .wpcf7 input[type^="submit"],.contact-us3 .wpcf7 input[type^="submit"], .faq_3 .wpcf7 input[type^="submit"],
+body .ftc_desciption_tab a, .ftc_excerpt .full-content p.link-more,
+.ftc-sidebar .widget-container ul.product-categories ul.children li a	{
+		font-family: Roboto Slab;
+	}
+.widget-title.heading-title,
+.widget-title.product_title,.newletter_sub_input .button.button-secondary,
+#mega_main_menu.primary ul li .mega_dropdown > li.sub-style > .item_link .link_text,
+.single-product .widget_recently_viewed_products .ftc-meta-widget span,
+.single-product .widget_recently_viewed_products .ftc-meta-widget a
+, .berocket_aapf_widget-title span
+	{
+		font-family: Roboto Slab !important;
+	}
+	#mega_main_menu.primary ul li .mega_dropdown > li.sub-style > ul.mega_dropdown,
+        #mega_main_menu li.multicolumn_dropdown > .mega_dropdown > li .mega_dropdown > li,
+        #mega_main_menu.primary ul li .mega_dropdown > li > .item_link .link_text,
+        .info-open,
+        .info-phone,
+        .dropdown-button span > span,
+        body p,
+        .wishlist-empty,
+        div.product .social-sharing li a,
+        .ftc-search form,
+        .ftc-shop-cart,
+        .conditions-box,
+        .testimonial-content .info,
+        .testimonial-content .byline,
+        .widget-container ul.product-categories ul.children li a,
+        .widget-container:not(.ftc-product-categories-widget):not(.widget_product_categories):not(.ftc-items-widget) :not(.widget-title),
+        .ftc-products-category ul.tabs li span.title,
+        .woocommerce-pagination,
+        .woocommerce-result-count,
+        .woocommerce-page .products.list .product h3.product-name > a
+        .products.list .short-description.list,
+        div.product .single_variation_wrap .amount,
+        div.product div[itemprop="offers"] .price .amount,
+        .orderby-title,
+        .blogs .post-info,
+        .blog .entry-info .entry-summary .short-content,
+        .single-post .entry-info .entry-summary .short-content,
+        .single-post article .post-info .info-category,
+        .single-post article .post-info .info-category,
+        #comments .comments-title,
+        #comments .comment-metadata a,
+        .post-navigation .nav-previous,
+        .post-navigation .nav-next,
+        .woocommerce-review-link,
+        .ftc_feature_info,
+        .woocommerce div.product p.stock,
+        .woocommerce div.product .summary div[itemprop="description"],
+        .woocommerce div.product p.price,
+        .woocommerce div.product .woocommerce-tabs .panel,
+        .woocommerce div.product form.cart .group_table td.label,
+        .woocommerce div.product form.cart .group_table td.price,
+        footer,
+        footer a,
+        .blogs article .image-eff:before,
+        .blogs article a.gallery .owl-item:after,.prod-cat-show-top-content-button a,
+		.header-layout7 .header-nav, 
+		.header-layout7 .header-nav .ftc-sb-account .ftc_login > a, 
+		.header-layout7 .header-nav .header-layout7 .ftc-sb-account, .ftc-my-wishlist *,
+		.ftc-slider .product-categories a ,.product-deal-home8 .woocommerce .ftc-product-time-deal .product .item-description,
+		.product-deal-home8 .header-title,.ftc-footer .copy-com, .header-layout8 #mega_main_menu.vertical > .menu_holder > .menu_inner > ul > li,
+		.header-layout8 .header-nav, .header-layout8 .ftc-sb-account .ftc_login > a,
+		.text-home9 h3, .product-deal-h9.ftc-product-time-deal .product .item-description,
+		.product-deal-h9.ftc-product-time-deal h3.product_title.product-name a,
+		.product-deal-h9 .products .product .price,.title-home9  h3.product_title.product-name a,
+		.slider-home9 .product .item-description .meta_info .add-to-cart span.ftc-tooltip.button-tooltip ,
+		.slider-home9 .product .item-description .meta_info .add-to-cart a,
+		.wpb-js-composer .slider-home9 .vc_tta-container .vc_tta.vc_general .vc_tta-tabs-list,
+		.blog-home9 .blogs article h3.product_title a,.text-title-h11 h3,
+		.product-deal-h11.ftc-product-time-deal div.product span.price,
+		.widget-h11 .ftc-meta-widget h3,.widget-h11 .ftc-meta-widget.item-description,
+		.header-layout12 .header-nav, .fresh-look h3.mont, .fresh-look .ftc-sb-button a.ftc-button,
+		body.blog article .post-info,.archive.category article .post-info, .author article .post-info, 
+		.tag article .post-info,.single-post article .post-info .tags-link, .single-post .vcard.author,
+		.single-post .text-social-share, #comments .the-comment.media span.reply-comment,
+		.blog blockquote.blockquote-bg,.archive.author blockquote.blockquote-bg,
+.archive.tag blockquote.blockquote-bg,
+.archive.category blockquote.blockquote-bg,.blog-timeline .date-timeline,
+.blog-timeline .load-more-wrapper,.quote blockquote.blockquote-bg,.single-post blockquote.blockquote-bg,
+.deal-h14.ftc-product-time-deal .short-description, .header-layout15 span.text-header8,
+body.wpb-js-composer .product-home16 .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab a, .blog-home17 .blogs article .post-img .date-time,
+.header-layout18 .header-nav, .text-button-h18 h3, .header-layout19 .language-currency, .header-layout20 .language-currency,
+.header-layout22 .search-button:after , .header-layout23 .search-button:after ,
+.header-layout23 #mega_main_menu.vertical > .menu_holder > .menu_inner > ul > li, .revslider-product23 .counter-wrapper,
+body.wpb-js-composer .slider-home23 .vc_general.vc_tta-tabs .vc_tta-tab > a, .slider-product-21 .product .item-image span.ftc-tooltip.button-tooltip
+, .single-about4 .ftc-sb-button a, .count-coming2 .countdown-meta, .service_part .group-1 h5, .service_part ul,
+.feature-service5 .ftc-feature .ftc_feature_content h3, .collapsed-content
+	{
+		font-family: Roboto;
+	}
+	body,
+        .site-footer,
+        .woocommerce div.product form.cart .group_table td.label,
+        .woocommerce .product .conditions-box span,
+         .item-description .meta_info .yith-wcwl-add-to-wishlist a,  .item-description .meta_info .compare,
+        .social-icons .ftc-tooltip:before,
+        .tagcloud a,
+        .details_thumbnails .owl-nav > div:before,
+        div.product .summary .yith-wcwl-add-to-wishlist a:before,
+        .pp_woocommerce div.product .summary .compare:before,
+        .woocommerce div.product .summary .compare:before,
+        .woocommerce-page div.product .summary .compare:before,
+        .woocommerce #content div.product .summary .compare:before,
+        .woocommerce-page #content div.product .summary .compare:before,
+        .woocommerce div.product form.cart .variations label,
+        .woocommerce-page div.product form.cart .variations label,
+        .pp_woocommerce div.product form.cart .variations label,
+        blockquote,
+        .ftc-number h3.ftc_number_meta,
+        .woocommerce .widget_price_filter .price_slider_amount,
+        .wishlist-empty,
+        .woocommerce div.product form.cart .button,
+        .woocommerce table.wishlist_table
+        {
+                font-size: 14px;
+        }
+	/* ========== 2. GENERAL COLORS ========== */
+        /* ========== Primary color ========== */
+	.header-currency:hover .ftc-currency > a,
+        .ftc-sb-language:hover li .ftc_lang,
+        .woocommerce a.remove:hover,
+        .dropdown-container .ftc_cart_check > a.button.view-cart:hover,
+        .ftc-my-wishlist a:hover,
+        .ftc-sb-account .ftc_login > a:hover,
+        .header-currency .ftc-currency ul li:hover,
+        .dropdown-button span:hover,
+        body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tab.vc_active > a,
+        body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tab > a:hover,
+        #mega_main_menu.primary > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link:hover *,
+        #mega_main_menu.primary > .menu_holder.sticky_container > .menu_inner > ul > li.current-menu-item > .item_link *,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link *,
+        #mega_main_menu.primary .mega_dropdown > li > .item_link:hover *,
+        #mega_main_menu.primary .mega_dropdown > li.current-menu-item > .item_link *,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-item > .item_link *,
+        .woocommerce .products .product .price,
+        .woocommerce div.product p.price,
+        .woocommerce div.product span.price,
+        .woocommerce .products .star-rating,
+        .woocommerce-page .products .star-rating,
+        .star-rating:before,
+        div.product div[itemprop="offers"] .price .amount,
+        div.product .single_variation_wrap .amount,
+        .pp_woocommerce .star-rating:before,
+        .woocommerce .star-rating:before,
+        .woocommerce-page .star-rating:before,
+        .woocommerce-product-rating .star-rating span,
+        ins .amount,
+        .ftc-meta-widget .price ins,
+        .ftc-meta-widget .star-rating,
+        .ul-style.circle li:before,
+        .woocommerce form .form-row .required,
+        .blogs .comment-count i,
+        .blog .comment-count i,
+        .single-post .comment-count i,
+        .single-post article .post-info .info-category,
+        .single-post article .post-info .info-category .cat-links a,
+        .single-post article .post-info .info-category .vcard.author a:hover,
+        .ftc-breadcrumb-title .ftc-breadcrumbs-content,
+        .ftc-breadcrumb-title .ftc-breadcrumbs-content span.current,
+        .ftc-breadcrumb-title .ftc-breadcrumbs-content a:hover,
+        .grid_list_nav a.active,
+        .ftc-quickshop-wrapper .owl-nav > div.owl-next:hover,
+        .ftc-quickshop-wrapper .owl-nav > div.owl-prev:hover,
+        .shortcode-icon .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-color-orange .vc_icon_element-icon,
+        .comment-reply-link .icon,
+        body table.compare-list tr.remove td > a .remove:hover:before,
+        a:hover,
+        a:focus,
+        .vc_toggle_title h4:hover,
+        .vc_toggle_title h4:before,
+        .blogs article h3.product_title a:hover,
+        article .post-info a:hover,
+        article .comment-content a:hover,
+        .main-navigation li li.focus > a,
+	.main-navigation li li:focus > a,
+	.main-navigation li li:hover > a,
+	.main-navigation li li a:hover,
+	.main-navigation li li a:focus,
+	.main-navigation li li.current_page_item a:hover,
+	.main-navigation li li.current-menu-item a:hover,
+	.main-navigation li li.current_page_item a:focus,
+	.main-navigation li li.current-menu-item a:focus,.woocommerce-account .woocommerce-MyAccount-navigation li.is-active a, article .post-info .cat-links a,article .post-info .tags-link a,
+    .vcard.author a,article .entry-header .caftc-link .cat-links a,.woocommerce-page .products.list .product h3.product-name a:hover,
+    .woocommerce .products.list .product h3.product-name a:hover, 
+        .woocommerce .products .star-rating.no-rating,.ftc_search_ajax .search-button:hover,
+		.tparrows:hover:before,.owl-nav > div:hover:before, #mega_main_menu.primary .mega_dropdown > li > .item_link:focus *
+		, .ftc-products-category ul.tabs li.current span.title, .ftc-products-category ul.tabs li:hover span.title
+		, footer ul.bullet li a:before,.widget-container ul.product-categories li a:hover,
+		.widget-container ul.product-categories ul.children li a:hover, .widget-container.ftc-product-categories-widget:not(:first-child) ul.product-categories li a:hover
+		,.woocommerce-page .products .star-rating.no-rating, div.product .summary .yith-wcwl-add-to-wishlist a:hover, div.product .summary .yith-wcwl-wishlistaddedbrowse a, div.product .summary .yith-wcwl-wishlistexistsbrowse a,
+		.single-product  .widget-title-wrapper:before, .comment-meta a:hover,
+		#right-sidebar .ftc-meta-widget a:hover, h3.product-name > a:hover,.ftc-sb-testimonial .testimonial-content .name a:hover,
+		.woocommerce-info::before, #right-sidebar .widget-container ul > li a:hover, #to-top a, .tp-bullets .tp-bullet:after, .dropdown-container .ftc_cart_check > a.button.view-cart:hover, #mega_main_menu.primary .mega_dropdown > li > .item_link:focus * , ul li a:hover , h3.feature-title.product_title.entry-title a:hover,
+        .footer-mobile i, .cart_list li span.quantity span,
+        .footer-cart-number:hover,
+                .count-wish:hover, .newsletterpopup .close-popup:hover:after,
+				.product-filter-by-color ul li a:hover, a.ftc-cart-tini.cart-item-canvas:hover:before,
+				a.ftc-cart-tini:hover:before, p.woocommerce-mini-cart__buttons.buttons > a.button.wc-forward:hover,
+				.ftc-enable-ajax-search .meta .price,#dokan-seller-listing-wrap ul.dokan-seller-wrap li .store-content .store-info .store-data h2 a:hover,
+				.dokan-single-store .profile-frame .profile-info-box .profile-info-summery-wrapper .profile-info-summery .profile-info .dokan-store-info .dokan-store-email a:hover,
+				.woocommerce .product .images .ftc-product-video-button:hover,
+				.woocommerce-message::before, .widget_categories li:hover,span.author:hover i,
+				.widget_shopping_cart .total .amount,.ftc_blog_widget .post_list_widget .post-title:hover,
+				.info_column.email a:hover, .test-home5.ftc-sb-testimonial .active .testimonial-content .info:before,
+				.ftc-footer .footer-middle5 a:hover,#mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link *,
+#mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *,
+.header-layout7 .cart-total, .banner1-home7 .text-home6 h2,.text-img-home7 h6 a:hover,
+.header-layout7 .header-nav .ftc-sb-language li a:hover,.eror-search span.error,
+.product-deal-home8.ftc-product-time-deal .star-rating.no-rating:before, .product-deal-home8.ftc-product-time-deal h3.product_title.product-name a:hover,
+.product-deal-home8.ftc-slider .product-categories a:hover, .footer-middle8  span.info,
+.widget .footer-middle8 ul.info-company li a:hover, footer .footer-middle8 ul.bullet li a:hover,
+.ftc-footer .copy-com.copy-com8 a, footer .footer-middle8 .menu-footer a:hover,
+#mega_main_menu.vertical.direction-vertical > .menu_holder > .menu_inner > ul > li:hover > .item_link > .link_content > .link_text, 
+#mega_main_menu.vertical.direction-vertical > .menu_holder > .menu_inner > ul > li:hover:before, 
+#mega_main_menu.vertical > .menu_holder > .menu_inner > ul > li.menu-item-has-children:hover:after,
+#mega_main_menu.vertical > .menu_holder > .menu_inner > ul > li:before,
+#mega_main_menu.vertical .mega_dropdown > li.current-menu-item > .item_link *, #mega_main_menu.vertical .mega_dropdown > li > .item_link:focus *,
+ #mega_main_menu.vertical .mega_dropdown > li > .item_link:hover *, 
+#mega_main_menu.vertical li.post_type_dropdown > .mega_dropdown > li > .processed_image:hover > .cover > a > i,
+.header-layout8 .header-nav a:hover, .text-home9 a:hover, .product-deal-h9 .counter-wrapper > div.days:before,
+.blog-home9 span.count-view:before,.feature-h9 .ftc-feature .fa, footer .footer-middle5.footer-middle9 ul.bullet li a:hover:before ,
+.testimonial-h10.ftc-sb-testimonial .owl-nav > div:hover,.feature-top10 .ftc-feature .fa,
+.ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .figcaption h3 a:hover,
+.single-portfolio .portfolio-info span a:hover,.text-title-h11 h3, .widget-h11 .woocommerce .ftc-meta-widget h3 a:hover,
+.widget-h11 .product_list_widget span.price,.ftc-footer .footer-bott11 .copy-com a,.threesixty-product-360 .nav_bar a:hover,
+.header-layout12 .header-currency .ftc-currency > a:hover,
+.header-layout12 .ftc-sb-language li a.ftc_lang:hover,.group-img-h12 .text1-h12 a:hover,
+.group-img-h12 .group-left12 .text1-h12 h3 span, .single-img12_2 .text1-h12 a:hover,
+.fresh-look .ftc-sb-button a.ftc-button:hover,.hotspot-product .price, 
+body.wpb-js-composer:not(.woocommerce-page) .widget-container.widget_categories ul li a:hover:before ,h4.text-blog,
+body.blog .caftc-link span.cat-links a:hover,body.archive.category .caftc-link span.cat-links a:hover,
+body.archive.author .caftc-link span.cat-links a:hover, body.archive.tag  .caftc-link span.cat-links a:hover,
+.single-post article .post-info .tags-link a:hover,.single-post .vcard.author a:hover,
+#comments .the-comment.media span.reply-comment a:hover, .widget-container.widget_categories li.current-cat > a,
+#mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-page-ancestor > .item_link *,
+.widget-container.widget_categories ul li.current-cat-parent > a,
+body .revslider-home14 .custom.tparrows:before, span.rev-h14,.deal-h14 .product .item-description .meta_info a ,
+.text-home14 span.color-h14, .text-left-h14 span.color-h14,.footer-middle15 span.color-h15, .ftc-footer .footer-bottom16 a:hover,
+.header-layout17 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link *, 
+.header-layout17 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *,
+.header-layout17 .cart-total , .blog-home17 .blog-h17 .vcard.author a:hover, .top-middle-h17 h3, .ftc-footer .footer-middle17 a:hover,
+.header-layout18 .header-currency .ftc-currency > a:hover,
+.header-layout18 .ftc-sb-language li a.ftc_lang:hover, .woocommerce .yith-woocommerce-ajax-product-filter.widget_layered_nav ul li.chosen a,
+.text-button-h18 .ftc-sb-button a:hover, .feature-h19 .ftc-feature .ftc_feature_content h3 a:hover,
+.feature-h19 .ftc-feature a:hover i,.text-h18-button .ftc-sb-button a:hover, .newsletter-h19 input.button-f9:hover,
+body .tp-bullets .tp-bullet.selected:before, body .tp-bullets .tp-bullet:hover:before, .product-home20 .load-more-wrapper .button:hover,
+.blog-test-h23.ftc-sb-testimonial .testimonial-content .name a:hover, .newsletter-h23 p.button-sub input[type="submit"]:hover,
+.woocommerce .yith-woocommerce-ajax-product-filter.widget_layered_nav ul.yith-wcan-list li.chosen a:before,
+.ftc-enable-ajax-search span.hightlight, .text_img_about4 a:hover, .mem_about4 .ftc-team-member a:hover,
+.comming-coming2 h1.title-coming span.font-normal, .mail-coming2 p.form-sub input.button-f9:hover, .comming-coming3 h1 span.font-normal,
+.title-contact4 span.text-color, .feature-service3 .ftc-feature a:hover .fa, .feature-service5 .ftc-feature a:hover .fa,
+body .ftc_desciption_tab a:hover,.footer-menu a:hover, .ftc_excerpt .full-content p.link-more a:hover,
+#swipebox-arrows a:hover
+         {
+                color: #82b53f;
+        }
+		.widget-container ul.product-categories li:hover > a, ul.product-categories li.current > a, .widget-container ul.product-categories ul.children li a:hover, .widget-container ul.product-categories ul.children li.cat-item.current a,
+		.woocommerce a.remove:hover, body table.compare-list tr.remove td > a .remove:hover:before, .ftc-footer .copy-com span a:hover,
+		.revslider-8 .tp-caption.rev-btn.rs-hover-ready:hover,.blog-home10 article a.button-readmore:hover,
+		.widget-container.widget_categories ul li.current-cat > a:before,
+		.widget-container.widget_categories ul li.current-cat-parent > a:before ,
+		.blog-home17 a.button-readmore:hover, 
+		.woocommerce #right-sidebar .widget_layered_nav ul > li.chosen a
+		{
+			color: #82b53f !important;
+		}
+        .dropdown-container .ftc_cart_check > a.button.checkout:hover,
+        .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+        .woocommerce-page .widget_price_filter .price_slider_amount .button:hover,
+        body input.wpcf7-submit:hover,
+        .woocommerce .products.list .product   .item-description .add-to-cart a:hover,
+        .woocommerce .products.list .product   .item-description .button-in a:hover,
+        .woocommerce .products.list .product   .item-description .meta_info  a:not(.quickview):hover,
+        .woocommerce .products.list .product   .item-description .quickview i:hover,
+        .counter-wrapper > div,
+        .tp-bullets .tp-bullet:after,
+        .woocommerce .product .conditions-box .onsale,
+        .woocommerce #respond input#submit:hover, 
+        .woocommerce a.button:hover,
+        .woocommerce button.button:hover, 
+        .woocommerce input.button:hover,
+        .woocommerce .products .product  .item-image .button-in:hover a:hover,
+        .woocommerce .products .product  .item-image a:hover,
+        .vc_color-orange.vc_message_box-solid,
+        .woocommerce nav.woocommerce-pagination ul li span.current,
+        .woocommerce-page nav.woocommerce-pagination ul li span.current,
+        .woocommerce nav.woocommerce-pagination ul li a.next:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a.next:hover,
+        .woocommerce nav.woocommerce-pagination ul li a.prev:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a.prev:hover,
+        .woocommerce nav.woocommerce-pagination ul li a:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a:hover,
+        .woocommerce .form-row input.button:hover,
+        .load-more-wrapper .button:hover,
+        body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab:hover,
+        body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab.vc_active,
+        .woocommerce div.product form.cart .button:hover,
+        .woocommerce div.product div.summary p.cart a:hover,
+        div.product .summary .yith-wcwl-add-to-wishlist a:hover,
+        .woocommerce #content div.product .summary .compare:hover,
+        div.product .social-sharing li a:hover,
+        .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+        .tagcloud a:hover,
+        .woocommerce .wc-proceed-to-checkout a.button.alt:hover,
+        .woocommerce .wc-proceed-to-checkout a.button:hover,
+        .woocommerce-cart table.cart input.button:hover,
+        .owl-dots > .owl-dot span:hover,
+        .owl-dots > .owl-dot.active span,
+        footer .style-3 .newletter_sub .button.button-secondary.transparent,
+        .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title > a:hover,
+        body div.pp_details a.pp_close:hover:before,
+        .vc_toggle_title h4:after,
+        body.error404 .page-header a,
+        body .button.button-secondary,
+        .pp_woocommerce div.product form.cart .button,
+        .shortcode-icon .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-background-color-orange.vc_icon_element-background,
+        .style1 .ftc-countdown .counter-wrapper > div,
+        .style2 .ftc-countdown .counter-wrapper > div,
+        .style3 .ftc-countdown .counter-wrapper > div,
+        #cboxClose:hover,
+        body > h1,
+        table.compare-list .add-to-cart td a:hover,
+        .vc_progress_bar.wpb_content_element > .vc_general.vc_single_bar > .vc_bar,
+        div.product.vertical-thumbnail .details-img .owl-controls div.owl-prev:hover,
+        div.product.vertical-thumbnail .details-img .owl-controls div.owl-next:hover,
+        ul > .page-numbers.current,
+        ul > .page-numbers:hover,
+        article a.button-readmore:hover,.text_service a,.vc_toggle_title h4:before,.vc_toggle_active .vc_toggle_title h4:before,
+        .post-item.sticky .post-info .entry-info .sticky-post,
+        .woocommerce .products.list .product   .item-description .compare.added:hover,
+        .woocommerce .product   .item-description .meta_info a:hover,
+        .woocommerce-page .product   .item-description .meta_info a:hover,
+        .ftc-meta-widget.item-description .meta_info a:hover,
+        .ftc-meta-widget.item-description .meta_info .yith-wcwl-add-to-wishlist a:hover, span.cart-number,
+		.vc_row.countdown-home .counter-wrapper > div, .ftc-products-category .tab-item .size-thumbnail,
+		.single-trust img, p.after-title:after, .blogs article h3.product_title:after, .ftc-feature .fa
+        ,footer#colophon .social-icons a:hover,.testimonial-content.has-image:before, .testimonial-content.has-image:after,
+		.text-shop .wpb_text_column, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle:hover,
+		.woocommerce div.product div.summary p.cart a, .woocommerce div.product form.cart .button, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover
+		, .woocommerce #content table.wishlist_table.cart a.remove:hover, .vc_row.button-new, button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:focus,
+.details_thumbnails .owl-nav .owl-prev:hover, .details_thumbnails .owl-nav .owl-next:hover, .nav-links span.page-numbers.current, .nav-links a.page-numbers:hover,
+body .subscribe_comingsoon .newletter_sub_input .button.button-secondary:hover,#to-top a:hover,.vc_row.countdown-home .counter-wrapper > div,.vc_row.countdown-home .counter-wrapper > div .number-wrapper, .tp-bullets .tp-bullet:after ,
+ .testimonial-content.has-image:before, .testimonial-content.has-image:after,
+p.button-sub input[type="submit"] , .dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li.active,
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li:hover,
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li.dokan-common-links a:hover,
+.dokan-single-store .dokan-store-tabs ul li a:hover, body .dokan-pagination-container .dokan-pagination li a:hover,
+.dokan-pagination-container .dokan-pagination li.active a, input[type="submit"].dokan-btn-danger, a.dokan-btn-danger, .dokan-btn-danger,
+input[type="submit"].dokan-btn-theme, a.dokan-btn-theme, .dokan-btn-theme, .cart-total,
+p.woocommerce-mini-cart__buttons.buttons > a.button.checkout.wc-forward:hover,
+.woocommerce-cart table.cart button.button:hover, .cookies-buttons a.btn.btn-size-small.btn-color-primary.cookies-accept-btn,
+.woocommerce .product .images .ftc-product-video-button:hover,
+ .ftc-mobile-wrapper .menu-text .btn-toggle-canvas.btn-danger,
+ .woocommerce form .form-row .button:hover,.woocommerce-MyAccount-content button.button:hover,
+ .single-post .form-submit input#submit:hover, .cookies-buttons  a.cookies-more-btn,
+ .mfp-close-btn-in .mfp-close:hover, .test-home5.ftc-sb-testimonial .owl-dots > .owl-dot > span:hover,
+ .test-home5.ftc-sb-testimonial .owl-dots > .owl-dot.active > span,.text-home6 h2:after,
+ .header-ftc.header-layout7,  .header-ftc.header-layout7 .header-sticky-hide,
+ .ftc-text-h7 .ftc-sb-button a, body .rev_slider_wrapper .custom-2.tp-bullets .tp-bullet.selected,
+body .rev_slider_wrapper .custom-2.tp-bullets .tp-bullet:hover,.slider-product-8 .owl-carousel .owl-dot.active,
+.slider-product-8 .owl-carousel .owl-dot:hover, .product-deal-home8 .counter-wrapper > div span.number,
+.product-deal-home8 .product .item-description .meta_info .add-to-cart a:hover,
+.blog-home8 .owl-carousel .owl-dot.active,
+.blog-home8 .owl-carousel .owl-dot:hover, .top_footer8,.blog-home5 .blogs article h3.product_title:hover:after,
+.header-layout8 .header-nav-menu, 
+.header-layout8 .ftc_search_ajax .search-button,
+.header-layout8 .cart-total:hover:before , .title-home9 .owl-nav > div:hover,.slider-home9 .product .item-description .meta_info a:hover,
+.slider-home9 .product .item-description .meta_info .add-to-cart a:hover,
+.feature-h9 .ftc-feature:hover,.vc_row.wpb_row.vc_row-fluid.footer-top9,
+.testimonial-h10.ftc-sb-testimonial .owl-dots > .owl-dot > span:hover,
+.testimonial-h10.ftc-sb-testimonial .owl-dots > .owl-dot.active > span, .video-text-h10 .ftc-button,
+.ftc-portfolio-wrapper .filter-bar  li.current, .ftc-portfolio-wrapper .filter-bar li:hover,
+.ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .icon-group .zoom-img,
+.ftc-portfolio-wrapper .item .icon-group div.social-portfolio, .single-portfolio .single-navigation a:hover:before,
+.category-h11 span.sub-product-categories a:hover, .newsletter-f11 p.button-sub input[type="submit"]:hover,
+body.blog article a.button-readmore:hover,.archive.author a.button-readmore:hover,
+.archive.tag  a.button-readmore:hover,
+.archive.category a.button-readmore:hover,.blog-image.gallery .owl-nav > div:hover,.blog-newside  article a.button-readmore:hover,
+.blog blockquote.blockquote-bg,.archive.author blockquote.blockquote-bg,
+.archive.tag blockquote.blockquote-bg,
+.archive.category blockquote.blockquote-bg,.single-post blockquote.blockquote-bg,
+.blog-timeline article.post-wrapper:hover .date-blog-timeline,.blog-timeline .load-more-wrapper a.load-more.button:hover,
+.quote blockquote.blockquote-bg, .blog-timeline .date-timeline:hover,
+body .revslider-home14 .custom.tparrows:hover:before,.deal-h14.ftc-product-time-deal .counter-wrapper > div .number-wrapper,
+.text-home14 .ftc-sb-button a:hover,.text-home14 h3:after, .text-left-h14 a,
+.header-layout15 a.ftc-cart-tini.cart-item-canvas:before, 
+	.header-layout15 a.ftc-cart-tini:before,.text-home15 p:before, .single-home16 h2:after,
+body.wpb-js-composer .product-home16 .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab a:hover,
+body.wpb-js-composer .product-home16 .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab.vc_active a	,
+.ftc-text-home16 .img-left, .text-button-h18 h2:after, .text-button-h18 .ftc-sb-button:before, 
+.text-button-h18 .ftc-sb-button:after, .text-h18-button h2:after,.text-h18-button .ftc-sb-button:before, 
+.text-h18-button .ftc-sb-button:after, .newsletter-h18 .ftc-text-h12 .ftc-title h2:after,
+.vc_row.footer-bott18, .tp-caption.rev-btn.rs-hover-ready:before, .tp-caption.rev-btn.rs-hover-ready:after,
+.single-img19  p:before, .single-img19  p:after, .text-button-h19:before, .product-home20 .load-more-wrapper .button:before, 
+.vc_row.newsletter-h22, .header-layout22 .ftc_search_ajax .search-button, .header-layout23 .ftc_search_ajax .search-button,
+.header-layout23, .header-layout23 .header-nav-menu, .revslider-product23 .header-title .product_title, .revslider-product23 .counter-wrapper,
+.wpb-js-composer .slider-home23 .vc_tta-container h2:before,
+.blog-test-h23 h4.title-test-h22:before, .wpb_text_column.newsletter-h23, .vc_row.footer-bott23, .product-home20 .load-more-wrapper .button:before, 
+.product-home20 .load-more-wrapper .button:after, .footer-top15 .text-insta i, .error_2 p.button-error a:hover,.error_4 p.button-error a:hover,
+.text-video-about2 li i, .single-about4 .ftc-sb-button a:hover, .mail-coming2 p.button-sub input[type="submit"]:hover,
+.contact-us2 h3:before, .wpcf7 input[type^="submit"]:hover,.text_faq3 h3:before,.text_ser2 .ftc-sb-button a:hover, .vc_row.brand-text-ser3,
+.service_part > .wpb_column > .vc_column-inner:hover > .wpb_wrapper, .service_part .wpb_column:hover .group-1,
+.service_part .vc_btn3-container a.vc_general.vc_btn3, .slider-home23 .product .conditions-box .onsale:before,
+.revslider-product23 .product .conditions-box .onsale:before,.woocommerce #review_form #respond .form-submit input:hover,
+.return-to-shop a.button.wc-backward:hover,
+.tp-bullets.custom_2 .tp-bullet.selected,
+.tp-bullets.custom_2 .tp-bullet:hover,
+.home_8.tp-bullets .tp-bullet.selected,
+.home_8.tp-bullets .tp-bullet:hover,
+#mega_main_menu.primary .mega_dropdown > li > .item_link:hover *:after,
+.ftc-smartmenu li:hover > a,
+.ftc-smartmenu li.current-menu-ancestor > a
+ {
+                background-color: #82b53f;
+        }
+		.tp-caption.rev-btn.rs-hover-ready, .text-deal-home1 a.ftc-button:hover,
+        .text-deal a.ftc-button.ftc-button-1.small:hover,
+        button.button.button-secondary.transparent,
+		.ftc-mobile-wrapper #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor,
+		.ftc-mobile-wrapper #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item
+		,.button-new5.button-new a.ftc-button:hover, .revslider-9 .tparrows:hover
+		,.slider-home9 .product .item-image .group-button-product > a:hover,
+		.revslider-11 .custom.tparrows:hover, .product-deal-h11 .counter-wrapper > div span.number:hover,
+		.product-home11 .product .item-image .group-button-product a:hover,
+		.product-home16 .product .item-image a:hover,
+		.revslider-17 .custom.tparrows:hover, .slider-h17 .product .item-image .group-button-product a:hover,
+		.text-img-h17 .ftc-sb-button a:hover{
+			background-color: #82b53f !important;
+		}
+	.dropdown-container .ftc_cart_check > a.button.view-cart:hover,
+        .dropdown-container .ftc_cart_check > a.button.checkout:hover,
+        .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+        .woocommerce-page .widget_price_filter .price_slider_amount .button:hover,
+        body input.wpcf7-submit:hover,
+        .counter-wrapper > div,
+        #right-sidebar .product_list_widget:hover li,
+        .woocommerce .product   .item-description .meta_info a:hover,
+        .woocommerce-page .product   .item-description .meta_info a:hover,
+        .ftc-meta-widget.item-description .meta_info a:hover,
+        .ftc-meta-widget.item-description .meta_info .yith-wcwl-add-to-wishlist a:hover,
+        .ftc-products-category ul.tabs li:hover,
+        .ftc-products-category ul.tabs li.current,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title > a:hover,
+         body div.pp_details a.pp_close:hover:before,
+        .wpcf7 p input:focus,
+        .wpcf7 p textarea:focus,
+        .woocommerce form .form-row .input-text:focus,
+        body .button.button-secondary,
+        .ftc-quickshop-wrapper .owl-nav > div.owl-next:hover,
+        .ftc-quickshop-wrapper .owl-nav > div.owl-prev:hover,
+        #cboxClose:hover, .woocommerce-account .woocommerce-MyAccount-navigation li.is-active,
+        .ftc-product-items-widget .ftc-meta-widget.item-description .meta_info .compare:hover,
+        .ftc-product-items-widget .ftc-meta-widget.item-description .meta_info .add_to_cart_button a:hover,
+        .woocommerce .product   .item-description .meta_info .add-to-cart a:hover,
+        .ftc-meta-widget.item-description .meta_info .add-to-cart a:hover, .ftc-sb-testimonial .active .testimonial-content .info,
+		.woocommerce nav.woocommerce-pagination ul li a.prev:hover, .woocommerce-page nav.woocommerce-pagination ul li a.prev:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, 
+		.woocommerce-page nav.woocommerce-pagination ul li a:hover, .tagcloud a:hover,.nav-links span.page-numbers.current, .nav-links a.page-numbers:hover
+		, body .subscribe_comingsoon .newletter_sub_input .button.button-secondary:hover,#to-top a, .ftc-sb-testimonial .active .testimonial-content .info
+        , .newsletterpopup .form-sub input[type="email"], input[type="submit"].dokan-btn-danger, a.dokan-btn-danger, .dokan-btn-danger,
+		input[type="submit"].dokan-btn-theme, a.dokan-btn-theme, .dokan-btn-theme,
+		#mega_main_menu.primary li.default_dropdown > .mega_dropdown > .menu-item > .item_link:hover:before,
+		p.woocommerce-mini-cart__buttons.buttons > a.button.wc-forward:hover,
+		p.woocommerce-mini-cart__buttons.buttons > a.button.checkout.wc-forward:hover,
+		.ftc-mobile-wrapper .menu-text .btn-toggle-canvas.btn-danger,
+		.after-loop-wrapper span.page-load-status, .banner1-home7 .text-home6 > .wpb_wrapper,
+		.product-deal-home8 .counter-wrapper > div .number-wrapper:after,
+		.title-home9 .product-deal-h9.ftc-product-time-deal, .slider-home9 .product .item-description .meta_info .add-to-cart a:hover,
+		.woocommerce #content div.product .woocommerce-tabs.vertical-product-tabs ul.tabs li:hover a
+,.woocommerce #content div.product .woocommerce-tabs.vertical-product-tabs ul.tabs li.description_tab.active a,
+.test-home11.ftc-sb-testimonial .active.center .testimonial-content .avatar,
+.fresh-look>.wpb_column>.wpb_wrapper:hover .text-lookbook>.wpb_column>.vc_column-inner,
+.fresh-look .ftc-sb-button a.ftc-button:hover:after, body.blog article a.button-readmore:hover:hover,
+.archive.author a.button-readmore:hover,
+.archive.tag  a.button-readmore:hover,
+.archive.category a.button-readmore:hover, .blog-newside article a.button-readmore:hover,
+.single-post .form-submit input#submit:hover,.blog-timeline article.post-wrapper:hover,
+.blog-timeline article.post-wrapper:hover:before,.blog-timeline article.post-wrapper:hover .date-blog-timeline,
+body .revslider-home14 .custom.tparrows:before,.deal-h14 .product .item-description .meta_info a,
+.text-deal-home16 .woocommerce .ftc-product-time-deal.ftc-slider .products .product:before,
+.service_part > .wpb_column > .vc_column-inner:hover > .wpb_wrapper, .dokan-single-store .dokan-store-tabs ul li a:hover {
+                border-color: #82b53f;
+        }
+		.woocommerce nav.woocommerce-pagination ul li a.prev:hover, .woocommerce-page nav.woocommerce-pagination ul li a.prev:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, 
+		.woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li span.current,
+		.text-home14 .ftc-sb-button a, .button-new16.button-new a.ftc-button:hover,
+	.single-about4 .ftc-sb-button a:hover
+		{
+			border-color: #82b53f !important;
+		}
+        #ftc_language ul ul,
+        .header-currency ul,
+        .ftc-account .dropdown-container,
+        .ftc-shop-cart .dropdown-container,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li:hover,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li.current_page_item > a:first-child:after,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li > a:first-child:hover:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item > .item_link:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .mega_dropdown,
+        .woocommerce .product .conditions-box .onsale:before,
+        .woocommerce .product .conditions-box .featured:before,
+        .woocommerce .product .conditions-box .out-of-stock:before, #dropdown-list,
+		.woocommerce-info,.tini-cart-inner, .woocommerce-message,
+		span.page-load-status p.infinite-scroll-request:after,
+		.custom-2.tp-bullets .tp-bullet.selected:after,
+.custom-2.tp-bullets .tp-bullet:hover:after,.slider-product-8 .owl-carousel .owl-dot.active:after,
+.slider-product-8 .owl-carousel .owl-dot:hover:after, .product-deal-home8 .counter-wrapper > div span.number:after,
+.blog-home8 .owl-carousel .owl-dot.active:after,
+.blog-home8 .owl-carousel .owl-dot:hover:after,.title-home9 .header-title h3.product_title,
+.wpb_row.footer-middle9.footer-middle11,body.wpb-js-composer .slider-home23 .vc_general.vc_tta-tabs .vc_tta-tabs-container,
+.blog-test-h23 h4.title-test-h22,
+.home_8.tp-bullets .tp-bullet.selected:after,
+.home_8.tp-bullets .tp-bullet:hover:after
+        {
+                border-top-color: #82b53f;
+        }
+        .woocommerce .products.list .product:hover  .item-description:after,
+        .woocommerce-page .products.list .product:hover  .item-description:after
+        {
+                border-left-color: #82b53f;
+        }
+        footer#colophon .ftc-footer .widget-title:before,
+        .woocommerce div.product .woocommerce-tabs ul.tabs,
+        #customer_login h2 span:before,
+        .cart_totals  h2 span:before, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item, #mega_main_menu > .menu_holder > .menu_inner > ul > li:hover, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link
+		,.test-2 .ftc-sb-testimonial .active .testimonial-content .info, .text-home6 a,
+		.test-2.ftc-sb-testimonial .active .testimonial-content .info,
+		body .ftc-sb-testimonial .active .testimonial-content .info, .text-img-home7 h6 a:hover,
+		.custom-2.tp-bullets .tp-bullet:hover:before,
+.custom-2.tp-bullets .tp-bullet.selected:before, .slider-product-8 .owl-carousel .owl-dot.active:before,
+.slider-product-8 .owl-carousel .owl-dot:hover:before, .product-deal-home8 .counter-wrapper > div span.number:before,
+ .blog-home8 .owl-carousel .owl-dot.active:before,
+.blog-home8 .owl-carousel .owl-dot:hover:before, .footer-middle8 div.info-com:after,.footer-middle8 div.info-com:before,
+footer#colophon .ftc-footer .footer-middle8 .widget-title:after,.banner1-home7 .text-home6 a:hover, .banner1-home8 .text-home6 a:hover,
+.header-layout15 #mega_main_menu > .menu_holder > .menu_inner > ul > li > .item_link.current-menu-item > .link_content,
+.header-layout15 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link:hover > .link_content,
+.header-layout15 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_parent > .item_link > .link_content,
+.header-layout15 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_ancestor > .item_link > .link_content ,
+.footer-middle15 .middle-footer15 input[type="email"], 
+.newsletter-h18 p.form-sub input[type="email"] , 
+.header-layout21 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item > .item_link > .link_content > .link_text, 
+.header-layout21 #mega_main_menu > .menu_holder > .menu_inner > ul > li:hover > .item_link > .link_content > .link_text, 
+.header-layout21 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link > .link_content > .link_text,
+.header-layout22 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item > .item_link > .link_content > .link_text,
+.header-layout22 #mega_main_menu > .menu_holder > .menu_inner > ul > li:hover > .item_link > .link_content > .link_text,
+.header-layout22 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor  > .item_link > .link_content > .link_text,
+.header-layout15 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item  > .item_link > .link_content
+, .home_8.tp-bullets .tp-bullet.selected:before,
+.home_8.tp-bullets .tp-bullet:hover:before        
+        {
+                border-bottom-color: #82b53f;
+        }
+        
+        /* ========== Secondary color ========== */
+        body,
+        .ftc-shoppping-cart a.ftc_cart:hover,
+        .woocommerce a.remove,
+        body.wpb-js-composer .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab,
+        .star-rating.no-rating:before,
+        .pp_woocommerce .star-rating.no-rating:before,
+        .woocommerce .star-rating.no-rating:before,
+        .woocommerce-page .star-rating.no-rating:before,
+        .woocommerce .product .item-image .group-button-product > div a,
+        .woocommerce .product .item-image .group-button-product > a, 
+        .vc_progress_bar .vc_single_bar .vc_label,
+        .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline-custom,
+        .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline-custom,
+        .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline-custom,
+        .style1 .ftc-countdown .counter-wrapper > div .countdown-meta,
+        .style2 .ftc-countdown .counter-wrapper > div .countdown-meta,
+        .style3 .ftc-countdown .counter-wrapper > div .countdown-meta,
+        .style4 .ftc-countdown .counter-wrapper > div .number-wrapper .number,
+        .style4 .ftc-countdown .counter-wrapper > div .countdown-meta,
+        body table.compare-list tr.remove td > a .remove:before,
+        .woocommerce-page .products.list .product h3.product-name a,
+        .ftc-enable-ajax-search .meta .price del, 
+        .header-layout32 .header-currency .ftc-currency > a,
+        .header-layout32 .ftc-sb-language li .ftc_lang,
+        .header-layout32 .ftc_search_ajax .search-button
+        {
+                color: #282828;
+        }
+        .dropdown-container .ftc_cart_check > a.button.checkout,
+        .pp_woocommerce div.product form.cart .button:hover,
+        .info-company li i,
+        body .button.button-secondary:hover,
+        div.pp_default .pp_close,
+        body div.ftc-product-video.pp_pic_holder .pp_close,
+        body .ftc-lightbox.pp_pic_holder a.pp_close,
+        #cboxClose,.cookies-buttons a.btn.btn-size-small.btn-color-primary.cookies-accept-btn:hover,
+		.video-text-h10 .ftc-button:hover,
+        .header-layout32 .ftc-droplist .icon-ftc-droplist,
+        .header-layout32 .ftc-droplist .icon-ftc-droplist:before, 
+        .header-layout32 .ftc-droplist .icon-ftc-droplist:after
+        {
+                background-color: #282828;
+        }
+        .dropdown-container .ftc_cart_check > a.button.checkout,
+        .pp_woocommerce div.product form.cart .button:hover,
+        body .button.button-secondary:hover,
+        #cboxClose
+        {
+                border-color: #282828;
+        }
+        
+        /* ========== Body Background color ========== */
+        body
+        {
+                background-color: #ffffff;
+        }
+	/* Custom CSS */
+	
+</style>
+<link rel='stylesheet' id='ftc-reset-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ftc-responsive-css'  href='https://turetici-bakkali.local/wp-content/themes/organico/assets/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ftc-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CRoboto+Slab%3A400%2C700' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Maalesef, bu ürün mevcut değil. Lütfen farklı bir kombinasyon seçin.</p>
+</script>
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"https://turetici-bakkali.local/wp-admin/admin-ajax.php",
+				"nonce": "fc6e3533d2",
+				"home_url": "https://turetici-bakkali.local"
+			};
+			/* ]]\> */
+		</script>
+		<script type='text/javascript' src='https://turetici-bakkali.local/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/revslider/public/assets/js/rbtools.min.js' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/revslider/public/assets/js/rs6.min.js' id='revmin-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Sepeti g\u00f6r\u00fcnt\u00fcle","cart_url":"https:\/\/turetici-bakkali.local\/sepetim\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js' id='vc_woocommerce-add-to-cart-js-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/html5.js' id='html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://turetici-bakkali.local/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://turetici-bakkali.local/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://turetici-bakkali.local/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<meta name="generator" content="WooCommerce 4.7.1" />
+<meta name="framework" content="Redux 4.1.23" />
+<style type="text/css" media="all">
+
+</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1555475428129{margin-top: -8px !important;margin-bottom: 38px !important;}.vc_custom_1555474010672{margin-bottom: 0px !important;}.vc_custom_1555406646818{margin-bottom: 0px !important;}.vc_custom_1555386745216{margin-bottom: 45px !important;padding-top: 5px !important;}.vc_custom_1555386960906{margin-bottom: 30px !important;}.vc_custom_1587691552769{padding-top: 0px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1587691850159{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1547527143853{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587692519116{margin-bottom: 0px !important;}.vc_custom_1584692210564{margin-bottom: 0px !important;}.vc_custom_1548152094894{margin-bottom: 0px !important;}.vc_custom_1587697732121{padding-top: 0px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1541141098015{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1547028651741{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587697630364{margin-bottom: 0px !important;}.vc_custom_1584692103715{margin-bottom: 0px !important;}.vc_custom_1548152165911{margin-bottom: 0px !important;}.vc_custom_1547171298381{margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1546854706198{margin-bottom: 0px !important;}.vc_custom_1546661115103{margin-bottom: 0px !important;}.vc_custom_1587698219356{padding-top: 7px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1547085141971{margin-right: 0px !important;margin-left: 0px !important;background-color: #f5f5f5 !important;}.vc_custom_1541141098015{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1547028651741{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1546854706198{margin-bottom: 0px !important;}.vc_custom_1546661115103{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587698167557{margin-bottom: 0px !important;}.vc_custom_1584691998000{margin-bottom: 0px !important;}.vc_custom_1547029218347{margin-bottom: 0px !important;}.vc_custom_1587698487073{padding-top: 10px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1546943451466{padding-top: 42px !important;padding-bottom: 30px !important;}.vc_custom_1546942978665{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 1px !important;background-color: #ffffff !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1546942393702{margin-bottom: 12px !important;}.vc_custom_1546942942697{margin-bottom: 0px !important;}.vc_custom_1587698529108{margin-bottom: 0px !important;}.vc_custom_1584691779500{margin-bottom: 0px !important;}.vc_custom_1546855146637{margin-right: 0px !important;margin-left: 0px !important;background-color: #f5f5f5 !important;}.vc_custom_1546854706198{margin-bottom: 0px !important;}.vc_custom_1546661115103{margin-bottom: 0px !important;}.vc_custom_1587699348086{padding-top: 7px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1541141098015{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1546910478514{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587699328817{margin-bottom: 0px !important;}.vc_custom_1584691678604{margin-bottom: 0px !important;}.vc_custom_1546670741767{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1546670706453{margin-bottom: 0px !important;}.vc_custom_1587699574293{padding-top: 25px !important;background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1541141098015{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1546662898125{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587699651156{margin-bottom: 0px !important;}.vc_custom_1584691540773{margin-bottom: 0px !important;}.vc_custom_1541141394536{margin-bottom: 0px !important;}.vc_custom_1587701147329{background-color: #2f2f2f !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1546498068224{margin-bottom: 0px !important;}.vc_custom_1546499979009{padding-top: 33px !important;padding-bottom: 37px !important;}.vc_custom_1546499880920{margin-right: 15px !important;margin-bottom: 0px !important;margin-left: 15px !important;}.vc_custom_1546499608504{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1546489956927{margin-bottom: 0px !important;}.vc_custom_1546489795983{margin-bottom: 0px !important;}.vc_custom_1546489846850{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1546499776218{border-top-width: 1px !important;padding-right: 0px !important;padding-left: 0px !important;border-top-color: rgba(255,255,255,0.07) !important;border-top-style: solid !important;}.vc_custom_1584691381131{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1546498909047{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1546489418080{margin-bottom: -40px !important;padding-top: 35px !important;padding-bottom: 38px !important;background-color: #f7f7f7 !important;}.vc_custom_1587702273642{padding-top: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1545983095000{padding-top: 65px !important;padding-bottom: 60px !important;background: #f9f9f9 url(https://demo.themeftc.com/organico/wp-content/uploads/2018/12/back-footer.jpg?id=3626) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1545981040413{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1587702328750{margin-bottom: -7px !important;}.vc_custom_1545981955630{margin-bottom: 0px !important;}.vc_custom_1584690905064{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1545616526259{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1545970294765{background-image: url(https://demo.themeftc.com/organico/wp-content/uploads/2018/12/back-3.jpg?id=3619) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1545640328009{margin-right: 0px !important;margin-left: 0px !important;padding-top: 0px !important;}.vc_custom_1545979677941{padding-top: 40px !important;}.vc_custom_1545970101248{border-top-width: 2px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1545795971900{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1545796696348{margin-bottom: 0px !important;}.vc_custom_1587703385901{padding-top: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1545792499660{padding-top: 0px !important;padding-bottom: 47px !important;background-color: #f9f9f9 !important;}.vc_custom_1545791329306{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #333333 !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1545791367708{margin-bottom: 30px !important;}.vc_custom_1545791797133{margin-bottom: 30px !important;}.vc_custom_1545792016583{margin-bottom: 0px !important;}.vc_custom_1584690408639{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1545616526259{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1587710978793{background-image: url(https://demo.themeftc.com/organico/wp-content/uploads/2018/12/footer.jpg?id=3384) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1545617518482{margin-bottom: 35px !important;padding-top: 5px !important;}.vc_custom_1545617275576{margin-bottom: 0px !important;}.vc_custom_1545623077655{padding-top: 47px !important;padding-bottom: 55px !important;}.vc_custom_1545615374884{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1545616246308{margin-bottom: 30px !important;}.vc_custom_1545616311388{margin-bottom: 30px !important;}.vc_custom_1545616003438{margin-bottom: 0px !important;}.vc_custom_1584690090892{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1545616526259{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1545640328009{margin-right: 0px !important;margin-left: 0px !important;padding-top: 0px !important;}.vc_custom_1545640320730{margin-bottom: -10px !important;padding-top: 48px !important;}.vc_custom_1545387162659{border-top-width: 1px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1587711456842{background-image: url(https://demo.themeftc.com/organico/wp-content/uploads/2018/11/back-footer.jpg?id=3137) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1541141098015{padding-top: 42px !important;padding-bottom: 10px !important;}.vc_custom_1541141529190{margin-top: 0px !important;margin-bottom: 0px !important;background-color: #7b7a78 !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587711524370{margin-bottom: 0px !important;}.vc_custom_1584689891720{margin-bottom: 0px !important;}.vc_custom_1541141394536{margin-bottom: 0px !important;}.vc_custom_1541128261327{margin-bottom: 35px !important;}.vc_custom_1587712302109{background-color: #202020 !important;}.vc_custom_1540540675562{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1540542014756{margin-bottom: 0px !important;}.vc_custom_1587712690713{margin-bottom: 0px !important;}.vc_custom_1584689773594{margin-bottom: 0px !important;}.vc_custom_1540545309346{margin-bottom: 0px !important;}.vc_custom_1587713575207{background-color: #faf5f2 !important;}.vc_custom_1587951216327{background-color: #faf5f2 !important;}.vc_custom_1536029902251{margin-bottom: 0px !important;background-color: #333333 !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1587781014337{margin-bottom: 0px !important;}.vc_custom_1584689140281{margin-bottom: 0px !important;}.vc_custom_1536036148428{margin-bottom: 0px !important;}.vc_custom_1535603210212{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1535610979014{margin-bottom: 0px !important;}.vc_custom_1584688609124{margin-bottom: 0px !important;}.vc_custom_1535602297438{margin-bottom: 0px !important;}.vc_custom_1535593852613{margin-bottom: 0px !important;}.vc_custom_1535599445201{margin-bottom: 0px !important;}.vc_custom_1587714916273{padding-top: 43px !important;}.vc_custom_1533634251203{margin-top: 55px !important;margin-bottom: 18px !important;border-top-width: 1px !important;padding-right: 0px !important;padding-left: 0px !important;border-top-color: #403f47 !important;border-top-style: solid !important;}.vc_custom_1533633794022{margin-bottom: 20px !important;}.vc_custom_1499487715577{margin-bottom: -7px !important;border-right-width: 1px !important;border-right-color: #403f47 !important;border-right-style: solid !important;}.vc_custom_1533634065691{margin-bottom: 0px !important;}.vc_custom_1500883026164{margin-top: -5px !important;margin-bottom: 0px !important;}.vc_custom_1500906649243{margin-bottom: 12px !important;margin-left: 0px !important;}.vc_custom_1533632506121{margin-bottom: 0px !important;}.vc_custom_1587714929116{padding-left: 15px !important;}.vc_custom_1533629951743{margin-bottom: 0px !important;}.vc_custom_1500904678549{border-top-width: 1px !important;border-top-color: #403f47 !important;border-top-style: solid !important;}.vc_custom_1499570594406{padding-left: 0px !important;}.vc_custom_1533633257977{margin-bottom: 0px !important;}.vc_custom_1584688400423{margin-bottom: 0px !important;}.vc_custom_1533633192266{margin-bottom: 0px !important;}.vc_custom_1533624886304{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1556851783218{margin-bottom: 25px !important;}.vc_custom_1497251301460{margin-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1533624895346{margin-bottom: 0px !important;}.vc_custom_1533624902177{margin-bottom: 0px !important;}.vc_custom_1587716502235{background-image: url(https://demo.themeftc.com/organico/wp-content/uploads/2018/08/back-footer.jpg?id=2510) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1533283420912{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1533019872824{margin-bottom: 0px !important;}.vc_custom_1587719417470{background-image: url(https://demo.themeftc.com/organico/wp-content/uploads/2018/07/back-footer.jpg?id=2386) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1532934889014{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1533019872824{margin-bottom: 0px !important;}.vc_custom_1533011473636{border-top-width: 2px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1587719569329{padding-top: 0px !important;background-color: #222222 !important;}.vc_custom_1532934889014{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1531983505668{margin-bottom: 0px !important;}.vc_custom_1501570503586{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1532934709850{border-top-width: 2px !important;padding-top: 10px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1532051027231{margin-top: 20px !important;margin-right: 0px !important;margin-left: 0px !important;border-top-width: 2px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1532054367047{margin-bottom: 0px !important;padding-top: 30px !important;}.vc_custom_1532050873534{padding-top: 10px !important;}.vc_custom_1502263041576{margin-bottom: 0px !important;padding-top: 7px !important;padding-bottom: 7px !important;}.vc_custom_1587711786317{padding-top: 0px !important;background-image: url(https://turetici-bakkali.local/wp-content/uploads/2019/04/footer.jpg?id=4329) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1587720224202{padding-top: 35px !important;}.vc_custom_1501518515534{margin-bottom: 0px !important;}.vc_custom_1501517044927{margin-bottom: -7px !important;}.vc_custom_1548231592851{margin-bottom: 25px !important;padding-top: 5px !important;}.vc_custom_1590112900851{margin-right: 0px !important;margin-left: 0px !important;padding-top: 25px !important;}.vc_custom_1501494976089{border-top-width: 2px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.2.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			/*Contact 3*/
+.contact-us3 .wpcf7 p:nth-child(3), .contact-us3 .wpcf7 p:nth-child(5) {
+    display: block;
+}
+
+/*Contact 2*/
+.single-contact2 .wpcf7 p:nth-child(3), .single-contact2 .wpcf7 p:nth-child(5) {
+    display: block;
+}
+
+/*Removed İndirilenler*/
+.woocommerce-MyAccount-navigation-link--downloads{
+	display:none;
+}
+
+/*Removed header currency and language*/
+.ftc-sb-language, .header-currency{
+	display:none;
+}
+
+/* Changed color of menu items */
+@media only screen and (min-width: 1000px){
+li.menu-item a {
+color: #ffc400;
+}
+li.menu-item a:hover {
+color: white;
+}
+
+ul.sub-menu a {
+color: #666;
+}
+}
+
+/* made register form responsive */
+@media only screen and (max-width: 800px){
+.u-column2 {
+float: none !important;
+width: 100% !important;
+}
+}
+
+/*Search all categories change width*/
+.header-layout15 .select-category {
+    max-width: 160px !important;
+}
+
+/* Sticky nav and background color */
+.header-content {
+background: #757575;
+}
+
+.header-content > .container{
+	height: 80px;
+}
+
+.header-nav-menu{
+	background: #616161 !important;
+}
+
+header.site-header{
+position: sticky;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+}
+
+.header-layout8 .ftc-search  {
+    border: 1px solid #ffc400;
+}
+
+body{
+	font-family: sans-serif !important;
+}
+
+/* Remove login form */
+
+.ftc-account:hover .dropdown-container{
+display: none;
+}
+
+/* Giris/Kayit responsive */
+@media only screen and (min-width: 320px) and (max-width: 1050px){
+.header-nav {
+display: block;
+ }
+}
+
+/*  Footer Responsive */
+@media only screen and (min-width: 320px) and (max-width: 550px){
+div#ftc_footer-3 section {
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+ }
+}
+
+/* Decreased padding from sub menu li */
+
+@media screen and (min-width: 48em) {
+.main-navigation ul ul a {
+    padding: 0.55em 1.25em !important;
+}
+}	
+
+/* Ürün bakkalı remove part of category and arrange*/
+
+.woocommerce > .products {
+	margin-left: 4em !important;
+}
+
+.col-xs-12{
+	width:100% !important;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1200px){
+.woocommerce > .products {
+	margin-left: 1.3em !important;
+}
+}
+
+/* Remove footer mobile responsive*/
+
+.footer-mobile{
+	display: none !important;
+}
+
+/* Remove ürün bakkalı part of page*/
+
+.ftc-breadcrumb{
+	display: none;
+}
+
+/* Faq arrange padding*/
+.vc_row.faq_2{
+	padding-top: 3em !important;
+}
+
+/* gereksiz padding silme */
+.page:not(.home) #content, .page.home #content {
+    padding-bottom: 0;
+}
+
+/** Header Sorunu icin ***/
+/* Product color to orange */
+
+.dropdown-container .ftc_cart_check > a.button.checkout:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce-page .widget_price_filter .price_slider_amount .button:hover, body input.wpcf7-submit:hover, .woocommerce .products.list .product .item-description .add-to-cart a:hover, .woocommerce .products.list .product .item-description .button-in a:hover, .woocommerce .products.list .product .item-description .meta_info a:not(.quickview):hover, .woocommerce .products.list .product .item-description .quickview i:hover, .counter-wrapper > div, .tp-bullets .tp-bullet:after, .woocommerce .product .conditions-box .onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce .products .product .item-image .button-in:hover a:hover, .woocommerce .products .product .item-image a:hover, .vc_color-orange.vc_message_box-solid, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a.next:hover, .woocommerce-page nav.woocommerce-pagination ul li a.next:hover, .woocommerce nav.woocommerce-pagination ul li a.prev:hover, .woocommerce-page nav.woocommerce-pagination ul li a.prev:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce .form-row input.button:hover, .load-more-wrapper .button:hover, body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab:hover, body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab.vc_active, .woocommerce div.product form.cart .button:hover, .woocommerce div.product div.summary p.cart a:hover, div.product .summary .yith-wcwl-add-to-wishlist a:hover, .woocommerce #content div.product .summary .compare:hover, div.product .social-sharing li a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .tagcloud a:hover, .woocommerce .wc-proceed-to-checkout a.button.alt:hover, .woocommerce .wc-proceed-to-checkout a.button:hover, .woocommerce-cart table.cart input.button:hover, .owl-dots > .owl-dot span:hover, .owl-dots > .owl-dot.active span, footer .style-3 .newletter_sub .button.button-secondary.transparent, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title > a, body .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title > a:hover, body div.pp_details a.pp_close:hover:before, .vc_toggle_title h4:after, body.error404 .page-header a, body .button.button-secondary, .pp_woocommerce div.product form.cart .button, .shortcode-icon .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-background-color-orange.vc_icon_element-background, .style1 .ftc-countdown .counter-wrapper > div, .style2 .ftc-countdown .counter-wrapper > div, .style3 .ftc-countdown .counter-wrapper > div, #cboxClose:hover, body > h1, table.compare-list .add-to-cart td a:hover, .vc_progress_bar.wpb_content_element > .vc_general.vc_single_bar > .vc_bar, div.product.vertical-thumbnail .details-img .owl-controls div.owl-prev:hover, div.product.vertical-thumbnail .details-img .owl-controls div.owl-next:hover, ul > .page-numbers.current, ul > .page-numbers:hover, article a.button-readmore:hover, .text_service a, .vc_toggle_title h4:before, .vc_toggle_active .vc_toggle_title h4:before, .post-item.sticky .post-info .entry-info .sticky-post, .woocommerce .products.list .product .item-description .compare.added:hover, .woocommerce .product .item-description .meta_info a:hover, .woocommerce-page .product .item-description .meta_info a:hover, .ftc-meta-widget.item-description .meta_info a:hover, .ftc-meta-widget.item-description .meta_info .yith-wcwl-add-to-wishlist a:hover, span.cart-number, .vc_row.countdown-home .counter-wrapper > div, .ftc-products-category .tab-item .size-thumbnail, .single-trust img, p.after-title:after, .blogs article h3.product_title:after, .ftc-feature .fa, footer#colophon .social-icons a:hover, .testimonial-content.has-image:before, .testimonial-content.has-image:after, .text-shop .wpb_text_column, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle:hover, .woocommerce div.product div.summary p.cart a, .woocommerce div.product form.cart .button, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce #content table.wishlist_table.cart a.remove:hover, .vc_row.button-new, button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:focus, .details_thumbnails .owl-nav .owl-prev:hover, .details_thumbnails .owl-nav .owl-next:hover, .nav-links span.page-numbers.current, .nav-links a.page-numbers:hover, body .subscribe_comingsoon .newletter_sub_input .button.button-secondary:hover, #to-top a:hover, .vc_row.countdown-home .counter-wrapper > div, .vc_row.countdown-home .counter-wrapper > div .number-wrapper, .tp-bullets .tp-bullet:after, .testimonial-content.has-image:before, .testimonial-content.has-image:after, p.button-sub input[type="submit"], .dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li.active, .dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li:hover, .dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li.dokan-common-links a:hover, .dokan-single-store .dokan-store-tabs ul li a:hover, body .dokan-pagination-container .dokan-pagination li a:hover, .dokan-pagination-container .dokan-pagination li.active a, input[type="submit"].dokan-btn-danger, a.dokan-btn-danger, .dokan-btn-danger, input[type="submit"].dokan-btn-theme, a.dokan-btn-theme, .dokan-btn-theme, .cart-total, p.woocommerce-mini-cart__buttons.buttons > a.button.checkout.wc-forward:hover, .woocommerce-cart table.cart button.button:hover, .cookies-buttons a.btn.btn-size-small.btn-color-primary.cookies-accept-btn, .woocommerce .product .images .ftc-product-video-button:hover, .ftc-mobile-wrapper .menu-text .btn-toggle-canvas.btn-danger, .woocommerce form .form-row .button:hover, .woocommerce-MyAccount-content button.button:hover, .single-post .form-submit input#submit:hover, .cookies-buttons a.cookies-more-btn, .mfp-close-btn-in .mfp-close:hover, .test-home5.ftc-sb-testimonial .owl-dots > .owl-dot > span:hover, .test-home5.ftc-sb-testimonial .owl-dots > .owl-dot.active > span, .text-home6 h2:after, .header-ftc.header-layout7, .header-ftc.header-layout7 .header-sticky-hide, .ftc-text-h7 .ftc-sb-button a, body .rev_slider_wrapper .custom-2.tp-bullets .tp-bullet.selected, body .rev_slider_wrapper .custom-2.tp-bullets .tp-bullet:hover, .slider-product-8 .owl-carousel .owl-dot.active, .slider-product-8 .owl-carousel .owl-dot:hover, .product-deal-home8 .counter-wrapper > div span.number, .product-deal-home8 .product .item-description .meta_info .add-to-cart a:hover, .blog-home8 .owl-carousel .owl-dot.active, .blog-home8 .owl-carousel .owl-dot:hover, .top_footer8, .blog-home5 .blogs article h3.product_title:hover:after, .header-layout8 .header-nav-menu, .header-layout8 .ftc_search_ajax .search-button, .header-layout8 .cart-total:hover:before, .title-home9 .owl-nav > div:hover, .slider-home9 .product .item-description .meta_info a:hover, .slider-home9 .product .item-description .meta_info .add-to-cart a:hover, .feature-h9 .ftc-feature:hover, .vc_row.wpb_row.vc_row-fluid.footer-top9, .testimonial-h10.ftc-sb-testimonial .owl-dots > .owl-dot > span:hover, .testimonial-h10.ftc-sb-testimonial .owl-dots > .owl-dot.active > span, .video-text-h10 .ftc-button, .ftc-portfolio-wrapper .filter-bar li.current, .ftc-portfolio-wrapper .filter-bar li:hover, .ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .icon-group .zoom-img, .ftc-portfolio-wrapper .item .icon-group div.social-portfolio, .single-portfolio .single-navigation a:hover:before, .category-h11 span.sub-product-categories a:hover, .newsletter-f11 p.button-sub input[type="submit"]:hover, body.blog article a.button-readmore:hover, .archive.author a.button-readmore:hover, .archive.tag a.button-readmore:hover, .archive.category a.button-readmore:hover, .blog-image.gallery .owl-nav > div:hover, .blog-newside article a.button-readmore:hover, .blog blockquote.blockquote-bg, .archive.author blockquote.blockquote-bg, .archive.tag blockquote.blockquote-bg, .archive.category blockquote.blockquote-bg, .single-post blockquote.blockquote-bg, .blog-timeline article.post-wrapper:hover .date-blog-timeline, .blog-timeline .load-more-wrapper a.load-more.button:hover, .quote blockquote.blockquote-bg, .blog-timeline .date-timeline:hover, body .revslider-home14 .custom.tparrows:hover:before, .deal-h14.ftc-product-time-deal .counter-wrapper > div .number-wrapper, .text-home14 .ftc-sb-button a:hover, .text-home14 h3:after, .text-left-h14 a, .header-layout15 a.ftc-cart-tini.cart-item-canvas:before, .header-layout15 a.ftc-cart-tini:before, .text-home15 p:before, .single-home16 h2:after, body.wpb-js-composer .product-home16 .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab a:hover, body.wpb-js-composer .product-home16 .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab.vc_active a, .ftc-text-home16 .img-left, .text-button-h18 h2:after, .text-button-h18 .ftc-sb-button:before, .text-button-h18 .ftc-sb-button:after, .text-h18-button h2:after, .text-h18-button .ftc-sb-button:before, .text-h18-button .ftc-sb-button:after, .newsletter-h18 .ftc-text-h12 .ftc-title h2:after, .vc_row.footer-bott18, .tp-caption.rev-btn.rs-hover-ready:before, .tp-caption.rev-btn.rs-hover-ready:after, .single-img19 p:before, .single-img19 p:after, .text-button-h19:before, .product-home20 .load-more-wrapper .button:before, .vc_row.newsletter-h22, .header-layout22 .ftc_search_ajax .search-button, .header-layout23 .ftc_search_ajax .search-button, .header-layout23, .header-layout23 .header-nav-menu, .revslider-product23 .header-title .product_title, .revslider-product23 .counter-wrapper, .wpb-js-composer .slider-home23 .vc_tta-container h2:before, .blog-test-h23 h4.title-test-h22:before, .wpb_text_column.newsletter-h23, .vc_row.footer-bott23, .product-home20 .load-more-wrapper .button:before, .product-home20 .load-more-wrapper .button:after, .footer-top15 .text-insta i, .error_2 p.button-error a:hover, .error_4 p.button-error a:hover, .text-video-about2 li i, .single-about4 .ftc-sb-button a:hover, .mail-coming2 p.button-sub input[type="submit"]:hover, .contact-us2 h3:before, .wpcf7 input[type^="submit"]:hover, .text_faq3 h3:before, .text_ser2 .ftc-sb-button a:hover, .vc_row.brand-text-ser3, .service_part > .wpb_column > .vc_column-inner:hover > .wpb_wrapper, .service_part .wpb_column:hover .group-1, .service_part .vc_btn3-container a.vc_general.vc_btn3, .slider-home23 .product .conditions-box .onsale:before, .revslider-product23 .product .conditions-box .onsale:before, .woocommerce #review_form #respond .form-submit input:hover, .return-to-shop a.button.wc-backward:hover, .tp-bullets.custom_2 .tp-bullet.selected, .tp-bullets.custom_2 .tp-bullet:hover, .home_8.tp-bullets .tp-bullet.selected, .home_8.tp-bullets .tp-bullet:hover, #mega_main_menu.primary .mega_dropdown > li > .item_link:hover *:after, .ftc-smartmenu li:hover > a, .ftc-smartmenu li.current-menu-ancestor > a {
+    background-color: #F8B10F;
+}
+
+.header-layout23 .header-content {
+    background: #757575 !important;
+}
+
+.header-layout23 a.ftc-cart-tini.cart-item-canvas:before, .header-layout23 a.ftc-cart-tini:before {
+    display: inline-block;
+    color: #fff !important;
+    background: #f8b10f;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+}
+
+.header-layout23 .cart-total {
+    background: #333333;
+}
+
+/*************************/
+		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="error404 wp-embed-responsive theme-organico woocommerce-no-js hfeed has-header-image colors-light wpb-js-composer js-comp-ver-6.2.0 vc_responsive elementor-default elementor-kit-7122">
+                        <div class="ftc-mobile-wrapper">
+                <div class="mutil-lang-cur">
+                </div>
+                                    <div class="ftc-search">
+        <form method="get" id="searchform458" action="https://turetici-bakkali.local/">
+        <select class="select-category" name="term"><option value="">Tüm Kategoriler</option><option value="ari-urunleri" >Arı Ürünleri</option><option value="baharatlar" >Baharatlar</option><option value="baklagiller" >Baklagiller</option><option value="cay-cesitleri" >Çay Çeşitleri</option><option value="kurutulmus-urunler" >Kurutulmuş Ürünler</option><option value="peynirler" >Peynirler</option><option value="receller-soslar" >Reçeller ve Soslar</option><option value="salca-cesitleri" >Salça Çeşitleri</option><option value="tahillar" >Tahıllar</option><option value="uncategorized" >Uncategorized</option><option value="zeytin-urunleri" >Zeytin Ürünleri</option></select>
+        <div class="ftc_search_ajax">
+        <input type="text" value="" name="s" id="s458" placeholder="Arama ..." autocomplete="off" />
+
+        <button type="submit" class="search-button"></button>
+        <input type="hidden" name="taxonomy" value="product_cat" />
+        <input type="hidden" name="post_type" value="product" />
+        <input type="hidden" name="taxonomy" value="product_cat" />
+        </div>
+        </form></div>                                <div class= "menu-text"> 
+                    <button type="button" class="btn btn-toggle-canvas btn-danger" data-toggle="offcanvas">
+                        <i class="fa fa-close"></i>
+                    </button>
+                    <i class="fa fa-bars"></i>
+                    Menu                </div>
+
+                <div class="mobile-menu-wrapper">
+                    <div class="menu-main-menu-container"><ul id="main-menu" class="ftc-smartmenu ftc-simple"><li id="menu-item-7134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7134"><a href="#">Tüm Kategoriler</a>
+<ul class="sub-menu">
+	<li id="menu-item-7401" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7401"><a href="https://turetici-bakkali.local/urun-bakkali/ari-urunleri/">Arı Ürünleri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7335" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7335"><a href="https://turetici-bakkali.local/urun-bakkali/bal/">Bal</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7402" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7402"><a href="https://turetici-bakkali.local/urun-bakkali/baharatlar/">Baharatlar</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7343" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7343"><a href="https://turetici-bakkali.local/urun-bakkali/kekik/">Kekik</a></li>
+		<li id="menu-item-7348" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7348"><a href="https://turetici-bakkali.local/urun-bakkali/nane/">Nane</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7403" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7403"><a href="https://turetici-bakkali.local/urun-bakkali/baklagiller/">Baklagiller</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7344" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7344"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-fasulye/">Kuru Fasulye</a></li>
+		<li id="menu-item-7350" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7350"><a href="https://turetici-bakkali.local/urun-bakkali/nohut/">Nohut</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7404" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7404"><a href="https://turetici-bakkali.local/urun-bakkali/cay-cesitleri/">Çay Çeşitleri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7338" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7338"><a href="https://turetici-bakkali.local/urun-bakkali/cay/">Çay</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7405" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7405"><a href="https://turetici-bakkali.local/urun-bakkali/kurutulmus-urunler/">Kurutulmuş Ürünler</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7334" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7334"><a href="https://turetici-bakkali.local/urun-bakkali/armut-kurusu/">Armut Kurusu</a></li>
+		<li id="menu-item-7339" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7339"><a href="https://turetici-bakkali.local/urun-bakkali/dolma-biber-kurusu/">Dolma Biber Kurusu</a></li>
+		<li id="menu-item-7340" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7340"><a href="https://turetici-bakkali.local/urun-bakkali/domates-kurusu/">Domates Kurusu</a></li>
+		<li id="menu-item-7346" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7346"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-kayisi/">Kuru Kayısı</a></li>
+		<li id="menu-item-7345" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7345"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-incir/">Kuru İncir</a></li>
+		<li id="menu-item-7347" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7347"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-uzum/">Kuru Üzüm</a></li>
+		<li id="menu-item-7324" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7324"><a href="https://turetici-bakkali.local/urun-bakkali/patlican-kurusu/">Patlıcan Kurusu</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7406" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7406"><a href="https://turetici-bakkali.local/urun-bakkali/peynirler/">Peynirler</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7342" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7342"><a href="https://turetici-bakkali.local/urun-bakkali/kasar-peyniri/">Kaşar Peyniri</a></li>
+		<li id="menu-item-7330" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7330"><a href="https://turetici-bakkali.local/urun-bakkali/tulum-peyniri/">Tulum Peyniri</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7407" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7407"><a href="https://turetici-bakkali.local/urun-bakkali/receller-soslar/">Reçeller ve Soslar</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7349" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7349"><a href="https://turetici-bakkali.local/urun-bakkali/nar-eksisi/">Nar Ekşisi</a></li>
+		<li id="menu-item-7325" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7325"><a href="https://turetici-bakkali.local/urun-bakkali/pekmez/">Pekmez</a></li>
+		<li id="menu-item-7329" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7329"><a href="https://turetici-bakkali.local/urun-bakkali/tahin/">Tahin</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7408" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7408"><a href="https://turetici-bakkali.local/urun-bakkali/salca-cesitleri/">Salça Çeşitleri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7336" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7336"><a href="https://turetici-bakkali.local/urun-bakkali/biber-salcasi/">Biber Salçası</a></li>
+		<li id="menu-item-7341" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7341"><a href="https://turetici-bakkali.local/urun-bakkali/domates-salcasi/">Domates Salçası</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7410" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7410"><a href="https://turetici-bakkali.local/urun-bakkali/tahillar/">Tahıllar</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7337" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7337"><a href="https://turetici-bakkali.local/urun-bakkali/bulgur/">Bulgur</a></li>
+		<li id="menu-item-7326" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7326"><a href="https://turetici-bakkali.local/urun-bakkali/pirinc/">Pirinç</a></li>
+		<li id="menu-item-7331" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7331"><a href="https://turetici-bakkali.local/urun-bakkali/un/">Un</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7409" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7409"><a href="https://turetici-bakkali.local/urun-bakkali/zeytin-urunleri/">Zeytin Ürünleri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7328" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7328"><a href="https://turetici-bakkali.local/urun-bakkali/siyah-zeytin/">Siyah Zeytin</a></li>
+		<li id="menu-item-7332" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7332"><a href="https://turetici-bakkali.local/urun-bakkali/yesil-zeytin/">Yeşil Zeytin</a></li>
+		<li id="menu-item-7333" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7333"><a href="https://turetici-bakkali.local/urun-bakkali/zeytin-yagi/">Zeytin Yağı</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7162"><a href="https://turetici-bakkali.local/anasayfa/">Ana Sayfa</a></li>
+<li id="menu-item-7155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://turetici-bakkali.local/hakkimizda/">Hakkımızda</a></li>
+<li id="menu-item-7157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7157"><a href="https://turetici-bakkali.local/ureticiagimiz/">Üretici Ağımız</a></li>
+<li id="menu-item-6988" class="h28_shop menu-item menu-item-type-post_type menu-item-object-page menu-item-6988"><a href="https://turetici-bakkali.local/urunbakkali/">Ürün Bakkalı</a></li>
+<li id="menu-item-7099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7099"><a href="https://turetici-bakkali.local/ureticimizol/">Üreticimiz Ol</a></li>
+<li id="menu-item-7521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7521"><a href="https://turetici-bakkali.local/turetici-rehberi/">Türetici Rehberi</a></li>
+<li id="menu-item-7064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7064"><a href="https://turetici-bakkali.local/blog-6/">Blog</a></li>
+<li id="menu-item-7098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7098"><a href="https://turetici-bakkali.local/iletisim/">İletişim</a></li>
+</ul></div>                </div>
+                                 <div class="footer-menu">
+                  <div class="mobile-wishlist">
+
+                   
+            </div>
+            <div class="mobile-account">
+                              <a href="https://turetici-bakkali.local/hesabim/" title="GİRİŞ">
+
+                                              GİRİŞ                      </a>
+     </div>
+ </div>
+</div>
+    <div id="page" class="site">
+       <a class="skip-link screen-reader-text" href="#content"></a>
+
+       <header id="masthead" class="site-header">
+
+        <div class="header-ftc header-layout23">
+
+            <div class="header-content header-sticky">
+                <div class="container">
+                    <div class="mobile-button">
+                        <div class="mobile-nav">
+                            <i class="fa fa-bars"></i>
+                        </div>
+                    </div>
+                    <div class="logo-wrapper is-desktop"><a href="https://turetici-bakkali.local/">
+                <!-- Main logo -->
+                                    <img src="https://turetici-bakkali.local/wp-content/uploads/2018/03/logo12-1.png" alt="Organico" title="Organico" class="normal-logo" />
+                
+                <!-- Logo Text -->
+                            </a></div>
+                    <div class="logo-wrapper is-mobile"> <a href="https://turetici-bakkali.local/">
+                <!-- Main logo -->
+                                    <img src="https://turetici-bakkali.local/wp-content/uploads/2018/03/logo12-1.png" alt="Organico" title="Organico" class="normal-logo" />
+                
+                <!-- Logo Text -->
+                            </a></div>
+
+                                            <div class="ftc-search-product"><div class="ftc-search">
+        <form method="get" id="searchform231" action="https://turetici-bakkali.local/">
+        <select class="select-category" name="term"><option value="">Tüm Kategoriler</option><option value="ari-urunleri" >Arı Ürünleri</option><option value="baharatlar" >Baharatlar</option><option value="baklagiller" >Baklagiller</option><option value="cay-cesitleri" >Çay Çeşitleri</option><option value="kurutulmus-urunler" >Kurutulmuş Ürünler</option><option value="peynirler" >Peynirler</option><option value="receller-soslar" >Reçeller ve Soslar</option><option value="salca-cesitleri" >Salça Çeşitleri</option><option value="tahillar" >Tahıllar</option><option value="uncategorized" >Uncategorized</option><option value="zeytin-urunleri" >Zeytin Ürünleri</option></select>
+        <div class="ftc_search_ajax">
+        <input type="text" value="" name="s" id="s231" placeholder="Arama ..." autocomplete="off" />
+
+        <button type="submit" class="search-button"></button>
+        <input type="hidden" name="taxonomy" value="product_cat" />
+        <input type="hidden" name="post_type" value="product" />
+        <input type="hidden" name="taxonomy" value="product_cat" />
+        </div>
+        </form></div></div>
+                    
+                                            <div class="ftc-shop-cart">            <div class="ftc-tini-cart">
+                <div class="cart-item">
+                    <a class="ftc-cart-tini cart-item-canvas" href="https://turetici-bakkali.local/sepetim/">
+                        <div class="total-cart">
+       <div class="cart-total">0</div>
+       <span class="cart-number-header8"><span class="text-header8">Sepetim</span><span class="woocommerce-Price-amount amount">0.00<span class="woocommerce-Price-currencySymbol">&#8378;</span></span></span>
+   </div>
+                   </a>
+            </div>
+                    </div>
+        </div>
+                                        <div class="dropdown-menu-header">
+                        <div class="ftc-droplist">
+                            <span class="icon-ftc-droplist"></span>
+                        </div>
+                        <div id="dropdown-list" class="drop">
+                                                            <div class="header-currency">            <div class="ftc-currency">
+                <a href="javascript: void(0)" class="ftc-currency-selector">USD</a>
+                <ul>
+                    <li rel="USD">Dollar (USD)</li>
+                    <li rel="EUR">Euro(EUR) </li>
+                </ul>
+            </div>
+            </div>
+                            
+                                                            <div class="ftc-sb-language">            <div id="ftc_language" class="ftc_language">
+                <ul>
+                    <li>
+                        <a href="#" class="ftc_lang icl-en">English</a>
+                        <ul style="visibility: hidden;">
+                            <li class="icl-fr"><a rel="alternate" href="#"><span class="icl_lang_sel_native">Francais </span></a></li>
+                            <li class="icl-de"><a rel="alternate" href="#"><span class="icl_lang_sel_native">Espanol</span></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            </div>
+                            
+                            
+                                                    <div class="ftc-sb-account">        <div class="ftc-account">
+            <div class="ftc_login">
+                                    <a  class="login" href="https://turetici-bakkali.local/hesabim/" title="GİRİŞ"><span>GİRİŞ</span></a>
+                    / 
+                    <a class="ftc_sign_up" href="https://turetici-bakkali.local/hesabim/" title="Create New HESABIM"><span>ÜYE OL</span></a>
+                                    </div>
+                                    <div class="ftc_account_form dropdown-container">
+                        <form name="ftc-login-form" class="ftc-login-form" action="https://turetici-bakkali.local/wp-login.php" method="post">
+
+                            <p class="login-username">
+                                <label>Username</label>
+                                <input type="text" name="log" class="input" value="" size="20" autocomplete="off">
+                            </p>
+                            <p class="login-password">
+                                <label>Password</label>
+                                <input type="password" name="pwd" class="input" value="" size="20">
+                            </p>
+
+                            <p class="login-submit">
+                                <input type="submit" name="wp-submit" class="button-secondary button" value="GİRİŞ">
+                                <input type="hidden" name="redirect_to" value="https://turetici-bakkali.local">
+                            </p>
+
+                        </form>
+
+                        <p class="ftc_forgot_pass"><a href="https://turetici-bakkali.local/hesabim/lost-password/" title="Forgot Your Password?">Forgot Your Password?</a></p>
+                    </div>
+                            </div>
+
+            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="header-nav-menu">
+                <div class="container">
+                    <div class="row">
+                                                                            <div class="navigation-primary">
+                                <nav id="site-navigation" class="main-navigation" aria-label="Primary Menu">
+        <div class="menu-ftc" data-controls="primary-menu"><a>Menu</a></div>
+        <div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7134"><a href="#">Tüm Kategoriler</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7401"><a href="https://turetici-bakkali.local/urun-bakkali/ari-urunleri/">Arı Ürünleri</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7335"><a href="https://turetici-bakkali.local/urun-bakkali/bal/">Bal</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7402"><a href="https://turetici-bakkali.local/urun-bakkali/baharatlar/">Baharatlar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7343"><a href="https://turetici-bakkali.local/urun-bakkali/kekik/">Kekik</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7348"><a href="https://turetici-bakkali.local/urun-bakkali/nane/">Nane</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7403"><a href="https://turetici-bakkali.local/urun-bakkali/baklagiller/">Baklagiller</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7344"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-fasulye/">Kuru Fasulye</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7350"><a href="https://turetici-bakkali.local/urun-bakkali/nohut/">Nohut</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7404"><a href="https://turetici-bakkali.local/urun-bakkali/cay-cesitleri/">Çay Çeşitleri</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7338"><a href="https://turetici-bakkali.local/urun-bakkali/cay/">Çay</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7405"><a href="https://turetici-bakkali.local/urun-bakkali/kurutulmus-urunler/">Kurutulmuş Ürünler</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7334"><a href="https://turetici-bakkali.local/urun-bakkali/armut-kurusu/">Armut Kurusu</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7339"><a href="https://turetici-bakkali.local/urun-bakkali/dolma-biber-kurusu/">Dolma Biber Kurusu</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7340"><a href="https://turetici-bakkali.local/urun-bakkali/domates-kurusu/">Domates Kurusu</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7346"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-kayisi/">Kuru Kayısı</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7345"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-incir/">Kuru İncir</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7347"><a href="https://turetici-bakkali.local/urun-bakkali/kuru-uzum/">Kuru Üzüm</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7324"><a href="https://turetici-bakkali.local/urun-bakkali/patlican-kurusu/">Patlıcan Kurusu</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7406"><a href="https://turetici-bakkali.local/urun-bakkali/peynirler/">Peynirler</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7342"><a href="https://turetici-bakkali.local/urun-bakkali/kasar-peyniri/">Kaşar Peyniri</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7330"><a href="https://turetici-bakkali.local/urun-bakkali/tulum-peyniri/">Tulum Peyniri</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7407"><a href="https://turetici-bakkali.local/urun-bakkali/receller-soslar/">Reçeller ve Soslar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7349"><a href="https://turetici-bakkali.local/urun-bakkali/nar-eksisi/">Nar Ekşisi</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7325"><a href="https://turetici-bakkali.local/urun-bakkali/pekmez/">Pekmez</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7329"><a href="https://turetici-bakkali.local/urun-bakkali/tahin/">Tahin</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7408"><a href="https://turetici-bakkali.local/urun-bakkali/salca-cesitleri/">Salça Çeşitleri</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7336"><a href="https://turetici-bakkali.local/urun-bakkali/biber-salcasi/">Biber Salçası</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7341"><a href="https://turetici-bakkali.local/urun-bakkali/domates-salcasi/">Domates Salçası</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7410"><a href="https://turetici-bakkali.local/urun-bakkali/tahillar/">Tahıllar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7337"><a href="https://turetici-bakkali.local/urun-bakkali/bulgur/">Bulgur</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7326"><a href="https://turetici-bakkali.local/urun-bakkali/pirinc/">Pirinç</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7331"><a href="https://turetici-bakkali.local/urun-bakkali/un/">Un</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7409"><a href="https://turetici-bakkali.local/urun-bakkali/zeytin-urunleri/">Zeytin Ürünleri</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7328"><a href="https://turetici-bakkali.local/urun-bakkali/siyah-zeytin/">Siyah Zeytin</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7332"><a href="https://turetici-bakkali.local/urun-bakkali/yesil-zeytin/">Yeşil Zeytin</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7333"><a href="https://turetici-bakkali.local/urun-bakkali/zeytin-yagi/">Zeytin Yağı</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7162"><a href="https://turetici-bakkali.local/anasayfa/">Ana Sayfa</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://turetici-bakkali.local/hakkimizda/">Hakkımızda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7157"><a href="https://turetici-bakkali.local/ureticiagimiz/">Üretici Ağımız</a></li>
+<li class="h28_shop menu-item menu-item-type-post_type menu-item-object-page menu-item-6988"><a href="https://turetici-bakkali.local/urunbakkali/">Ürün Bakkalı</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7099"><a href="https://turetici-bakkali.local/ureticimizol/">Üreticimiz Ol</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7521"><a href="https://turetici-bakkali.local/turetici-rehberi/">Türetici Rehberi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7064"><a href="https://turetici-bakkali.local/blog-6/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7098"><a href="https://turetici-bakkali.local/iletisim/">İletişim</a></li>
+</ul></div></nav><!-- #site-navigation -->
+                            </div><!-- .navigation-top -->
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header><!-- #masthead -->
+<div class="site-content-contain">
+  <div id="content" class="site-content">
+
+    <div class="container">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main" >
+
+                <section class="error-404 not-found">
+                    <header class="page-header">
+                        <h1>404</h1><h2>Hata Sayfasi!</h2>
+					<p>Birseyler yanlis gitti...</p>
+					<a href="https://turetici-bakkali.local/">Anasayfaya geri don</a>                    </header>
+                </section><!-- .error-404 -->
+            </main><!-- #main -->
+        </div><!-- #primary -->
+    </div><!-- .wrap -->
+
+
+</div><!-- #content -->
+<div class="container top-footer">
+		<div class="widget-column footer-top">
+		<div id="ftc_footer-1" class="widget ftc-footer"><p>	<div  class="vc_row wpb_row vc_row-fluid ftc-row-wide"   ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"></div></div></div>	<div  class="vc_row wpb_row vc_row-fluid vc_custom_1590112900851 ftc-row-wide"   ><div class="wpb_column vc_column_container vc_col-sm-12 vc_custom_1501494976089"><div class="wpb_wrapper"></div></div></div>	<div  class="vc_row wpb_row vc_row-fluid ftc-row-wide"   ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+</div></div></div></p>
+</div>	</div>
+	</div>  
+<footer id="colophon" class="site-footer">
+	
+
+					<div class="widget-column footer-middle">
+                            <div class="container">
+				<div id="ftc_footer-2" class="widget ftc-footer">	<div  class="vc_row wpb_row vc_row-fluid footer-mh1 vc_custom_1548231592851 ftc-row-wide"   ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="ftc-title">
+<h2 style="text-align: center;">Haber Bültenimize Abone Ol</h2>
+</div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p class="after-title" style="text-align: center;"><em>Doğal ürünler bakkalı</em></p>
+
+		</div>
+	</div>
+</div></div></div>	<div  class="vc_row wpb_row vc_row-fluid ftc-row-wide"   ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="ftc_newletter_sub"><div class="widget newletter_sub">			
+								<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<div class="newletter_sub_input">
+						<input type="text" name="email" class="subscribe-input" value="" placeholder="Mail adresinizi giriniz" />
+						<input type="hidden" value="" name="uri"/>
+						<input type="hidden" value="Turetici-Bakkali" name="title"/>
+						<input type="hidden" name="loc" value="en_US"/>
+						<button class="button button-secondary transparent" type="submit" title="Subscribe">Subscribe</button>
+						<p style="display:none;">Delivered by <a href="https://www.feedburner.com" target="_blank">FeedBurner</a></p>
+					</div>
+				</form>
+
+			</div></div></div></div></div></div>                            </div>
+			</div>
+					<div class="widget-column footer-bottom">
+                            <div class="container">
+				<div id="ftc_footer-3" class="widget ftc-footer"><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section footer-mobi vc_custom_1587711786317 vc_section-has-fill">	<div  class="vc_row wpb_row vc_row-fluid vc_custom_1587720224202 ftc-row-wide"   ><div class="contact-info wpb_column vc_column_container vc_col-sm-3 vc_custom_1501517044927"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4 class="widget-title heading-title">İletişim Bilgileri</h4>
+<div class="info-com">
+<ul class="no-padding info-company">
+<li><i class="fa fa-home"></i> <a title="Sitemap" href="#">Zümrütevler Mah. Gündoğdu Sok. Maltepe / İstanbul</a></li>
+<li><i class="fa fa-phone"></i> <a title="Telefon" href="#">0536 730 21 98</a></li>
+<li><i class="fa fa-fax"></i> <a title="Fax" href="#">0216 000 00 00</a></li>
+<li><i class="fa fa-envelope"></i> <a href="mailto:info@tureticibakkali.com">info@türeticibakkali.com</a></li>
+</ul>
+</div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="social-icons">
+<ul class="list-icons">
+<li><a class="facebook" title="" href="http://www.facebook.com/#" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i><span class="ftc-tooltip social-tooltip">Facebook</span></a></li>
+<li><a class="twitter" title="" href="http://twitter.com/#" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter"></i><span class="ftc-tooltip social-tooltip">Twitter</span></a></li>
+<li><a class="youtube" title="" href="http://youtube.com/#" target="_blank" rel="noopener noreferrer"><i class="fa fa-youtube-play"></i><span class="ftc-tooltip social-tooltip">youtube</span></a></li>
+<li><a class="instagram" title="" href="https://instagram.com/#" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram"></i><span class="ftc-tooltip social-tooltip">Instagram</span></a></li>
+</ul>
+</div>
+
+		</div>
+	</div>
+</div></div><div class="col-active wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4 class="widget-title heading-title">Kurumsal</h4>
+<ul class="no-padding bullet">
+<li class="item"><a title="Hakkimizda" href="https://turetici-bakkali.local/hakkimizda/">Hakkımızda</a></li>
+<li class="item"><a title="Uretici Agimiz" href="https://turetici-bakkali.local/ureticiagimiz/">Üretici Ağımız</a></li>
+<li class="item"><a title="Siparis Takibi" href="https://turetici-bakkali.local/siparis-takibi/">Sipariş Takibi</a></li>
+<li class="item"><a title="Sıkca Sorulan Sorular" href="https://turetici-bakkali.local/sikca-sorulan-sorular/">Sıkça Sorulan Sorular</a></li>
+<li class="item"><a title="Banka Hesap Numaralarimiz" href="https://turetici-bakkali.local/banka-hesap-numaralarimiz/">Banka Hesap Numaralarımız</a></li>
+</ul>
+
+		</div>
+	</div>
+</div></div><div class="col-active wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4 class="widget-title heading-title">Müşteri Hizmetleri</h4>
+<ul class="no-padding bullet">
+<li><a title="Mesafeli Satıs Sözlesmesi" href="https://turetici-bakkali.local/mesafeli-satis-sozlesmesi/" rel="nofollow">Mesafeli Satış Sözleşmesi</a></li>
+<li><a title="Garanti Iade" href="https://turetici-bakkali.local/garanti-ve-iade/" rel="nofollow">Garanti ve İade</a></li>
+<li><a title="Gizlilik ve Kullanim Sartlari" href="https://turetici-bakkali.local/gizlilik-ve-kullanim-sartlari/" rel="nofollow">Gizlilik ve Kullanım Şartları</a></li>
+<li><a title="Kargo ve Tasima Bilgileri" href="https://turetici-bakkali.local/kargo-ve-tasima-bilgileri/" rel="nofollow">Kargo ve Taşıma Bilgileri</a></li>
+<li><a title="İletisim" href="https://turetici-bakkali.local/iletisim/">İletişim</a></li>
+</ul>
+
+		</div>
+	</div>
+</div></div><div class="col-active wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4 class="widget-title heading-title">Hızlı Bağlantılar</h4>
+<ul class="no-padding bullet">
+<li class="item"><a title="Urun Bakkali" href="https://turetici-bakkali.local/urunbakkali/">Ürün Bakkalı</a></li>
+<li class="item"><a title="Ureticimiz Ol" href="https://turetici-bakkali.local/ureticimizol/">Üreticimiz Ol</a></li>
+<li class="item"><a title="Sepetim" href="https://turetici-bakkali.local/sepetim/">Sepetim</a></li>
+<li><a title="Odeme Sayfasi" href="https://turetici-bakkali.local/odeme-sayfasi/" rel="nofollow">Ödeme Sayfası</a></li>
+<li><a title="Turetici Rehberi" href="https://turetici-bakkali.local/turetici-rehberi/" rel="nofollow">Türetici Rehberi</a></li>
+<li><a title="Hesabim" href="https://turetici-bakkali.local/hesabim/" rel="nofollow">Hesabım</a></li>
+</ul>
+
+		</div>
+	</div>
+</div></div></div>	<div  class="vc_row wpb_row vc_row-fluid footer-bott vc_custom_1501518515534 ftc-row-wide"  data-vc-full-width="true" data-vc-full-width-init="false"   ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+
+<div class="copy-com" style="color: #fff; text-align: center; font-size: 13px;">Copyright © 2020 <span style="text-decoration: underline;"><a style="text-decoration: underline; color: #fff;" href="https://turetici-bakkali.local/anasayfa/">türeticibakkali.com</a></span> tüm hakları saklıdır.</div>
+</div></div></div><div class="vc_row-full-width"></div></section><div class="vc_row-full-width vc_clearfix"></div></div>                            </div>
+			</div>
+		
+</footer><!-- #colophon -->
+</div><!-- .site-content-contain -->
+</div><!-- #page -->
+<div class="ftc-close-popup"></div>
+	<div class="footer-mobile">
+		<div class="mobile-home">
+			<a href="https://turetici-bakkali.local/" >
+				<i class="fa fa-home"></i>
+				Home			</a>   
+		</div>  
+		<div class="mobile-view-shop" >
+							<a href="https://turetici-bakkali.local/urunbakkali/" >
+					<i class="fa fa-shopping-cart"></i>
+					Shop				</a>
+					</div>
+		<div class="mobile-wishlist">
+
+			
+		</div>
+		<div class="mobile-account">
+						<a href="https://turetici-bakkali.local/hesabim/" title="GİRİŞ">
+				<i class="fa fa-user"></i>
+													GİRİŞ							</a>
+		</div>
+	</div>
+	<div id="to-top" class="scroll-button">
+		<a class="scroll-button" href="javascript:void(0)" title="Back to Top">Back to Top</a>
+	</div>
+            <div class="ftc-off-canvas-cart">
+            <div class="off-canvas-cart-title">
+                <div class="title">Shopping Cart</div>
+                <a href="#" class="close-cart"> Close</a>
+            </div>
+            <div class="off-can-vas-inner">
+                <div class="woocommerce widget_shopping_cart">
+                    <div class="widget_shopping_cart_content">
+                        
+
+	<p class="woocommerce-mini-cart__empty-message">Sepetinizde ürün bulunmuyor.</p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+                  <div class="ftc-cookies-popup">
+            <div class="ftc-cookies-inner">
+               <div class="cookies-info-text">
+                   <a href="#" class="cookies-title">
+                    Çerez Bildirimi                </a>
+                <p>Web sitemizdeki deneyiminizi geliştirmek için çerezler kullanıyoruz. Bu web sitesine göz atarak, çerez kullanımımızı kabul etmiş olursunuz.</p>
+            </div>
+            <div class="cookies-buttons">
+              <a href="#" class="btn btn-size-small btn-color-primary cookies-accept-btn">Yes, I Accept</a>
+          </div>
+      </div>
+  </div>
+
+  <script type="text/html" id="wpb-modifications"></script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<link rel='stylesheet' id='js_composer_front-css'  href='https://turetici-bakkali.local/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/turetici-bakkali.local\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/contact-form-7/includes/js/scripts.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/js/jquery.countdown.js' id='countdown-timer-script-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/js/TimeCircles.js' id='countdown-circle-js'></script>
+<script type='text/javascript' id='ftc-elements-js-js-extra'>
+/* <![CDATA[ */
+var ftcLoadjs = {"ajaxurl":"https:\/\/turetici-bakkali.local\/wp-admin\/admin-ajax.php","loadingposts":"Loading ...","noposts":"No more found","loadmore":"Load more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/js/main-elements.min.js' id='ftc-elements-js-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/js/owl.carousel.min.js' id='carousel-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/themeftc-for-elementor/assets/js/frontend.js' id='ftcs-js-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_aa6cf18d79b1444a2c96c6a2ba63aa39","fragment_name":"wc_fragments_aa6cf18d79b1444a2c96c6a2ba63aa39","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/quick_view.js' id='quick_view-js'></script>
+<script type='text/javascript' id='platform-js-extra'>
+/* <![CDATA[ */
+var ftc_platform = {"ajax_url":"https:\/\/turetici-bakkali.local\/wp-admin\/admin-ajax.php","ajax_nonce":"813ff3eff9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/platform.js' id='platform-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/dokan-lite/assets/vendors/magnific/jquery.magnific-popup.min.js' id='dokan-popup-js'></script>
+<script type='text/javascript' id='dokan-i18n-jed-js-extra'>
+/* <![CDATA[ */
+var dokan = {"ajaxurl":"https:\/\/turetici-bakkali.local\/wp-admin\/admin-ajax.php","nonce":"83a20d46f9","ajax_loader":"https:\/\/turetici-bakkali.local\/wp-content\/plugins\/dokan-lite\/assets\/images\/ajax-loader.gif","seller":{"available":"Available","notAvailable":"Not Available"},"delete_confirm":"Are you sure?","wrong_message":"Something went wrong. Please try again.","vendor_percentage":"100","commission_type":"percentage","rounding_precision":"6","mon_decimal_point":".","product_types":["simple"],"rest":{"root":"https:\/\/turetici-bakkali.local\/wp-json\/","nonce":"35b2205276","version":"dokan\/v1"},"api":null,"libs":[],"routeComponents":{"default":null},"routes":[],"urls":{"assetsUrl":"https:\/\/turetici-bakkali.local\/wp-content\/plugins\/dokan-lite\/assets"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/dokan-lite/assets/vendors/i18n/jed.js' id='dokan-i18n-jed-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/dokan-lite/assets/js/login-form-popup.js' id='dokan-login-form-popup-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.sticky.js' id='sticky-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.magnific-popup.min.js' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/threesixty.min.js' id='threesixty-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/infinite-scroll.pkgd.min.js' id='infinite-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.swipebox.min.js' id='swipebox-min-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.swipebox.js' id='swipebox-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/owl.carousel.min.js' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/plugins-ext.js' id='plugins-ext-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.smartmenus.js' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js' id='prettyPhoto-js'></script>
+<script type='text/javascript' id='ftc-skip-link-focus-fix-js-extra'>
+/* <![CDATA[ */
+var ftcScreenReaderText = {"quote":"<svg class=\"icon icon-quote-right\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-quote-right\" xlink:href=\"#icon-quote-right\"><\/use> <\/svg>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/skip-link-focus-fix.js' id='ftc-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.cookie.min.js' id='cookie-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/jquery.scrollTo.js' id='jquery-scrollto-js'></script>
+<script type='text/javascript' id='ftc-global-js-extra'>
+/* <![CDATA[ */
+var ftc_shortcode_params = {"ajax_uri":"\/wp-admin\/admin-ajax.php","_ftc_enable_responsive":"1","_ftc_enable_ajax_search":"1","cookies_version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/themes/organico/assets/js/custom.js' id='ftc-global-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Maalesef, se\u00e7iminizle e\u015fle\u015fen \u00fcr\u00fcn bulunmuyor. L\u00fctfen farkl\u0131 bir kombinasyon se\u00e7in.","i18n_make_a_selection_text":"L\u00fctfen sepetinize bu \u00fcr\u00fcn\u00fc eklemeden \u00f6nce baz\u0131 \u00fcr\u00fcn se\u00e7eneklerini belirleyin.","i18n_unavailable_text":"Maalesef, bu \u00fcr\u00fcn mevcut de\u011fil. L\u00fctfen farkl\u0131 bir kombinasyon se\u00e7in."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js' id='wc-add-to-cart-variation-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://turetici-bakkali.local/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js' id='wpb_composer_front_js-js'></script>
+
+</body>
+</html>
